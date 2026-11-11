@@ -16,12 +16,28 @@ The applications serve different needs: receiving professional bookings, organiz
 
 Development moved quickly, without iterative processes. I researched reference applications and expected flows to inform decisions, structured the design system, and documented journeys for development. Reference research is not presented as user research or usability validation.
 
+<figure class="img-placeholder" data-ratio="16:9" data-id="niibu-01">
+  <div class="img-placeholder__box">
+    <p class="img-placeholder__prompt">Create a conceptual UI design system board with token swatches, spacing samples, reusable mobile components and page templates, organized in a precise modular grid. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: soft violet, pale mint, warm white and dark charcoal. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
+  </div>
+  <figcaption lang="es">Tablero conceptual de tokens, componentes y plantillas del sistema de diseño.</figcaption>
+  <figcaption lang="en">Conceptual board of design tokens, components, and templates.</figcaption>
+</figure>
+
 ## Key design decisions
 
 - Build shared tokens, components, and templates to support consistency across products.
 - Document alternative paths, errors, and edge cases alongside the happy path to clarify expected behavior.
 - Present each application separately to keep its primary tasks visible.
 - Design AI features within defined flows without claiming undocumented accuracy or effectiveness testing.
+
+<figure class="img-placeholder" data-ratio="4:3" data-id="niibu-02">
+  <div class="img-placeholder__box">
+    <p class="img-placeholder__prompt">Create a conceptual flow diagram with a clear main path and branching alternative routes, error recovery and edge cases, using unlabeled nodes and distinct line styles. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: soft violet, pale mint, warm white and dark charcoal. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
+  </div>
+  <figcaption lang="es">Mapa conceptual que distingue flujo principal, alternativas y errores.</figcaption>
+  <figcaption lang="en">Conceptual map distinguishing the happy path, alternatives, and errors.</figcaption>
+</figure>
 
 ## Solution
 
@@ -36,6 +52,30 @@ An assistant for daily planning, discovering self-care and wellness options, and
 ### Niibu: Creator Studio
 
 The wallet traces earnings to their source. The listing describes verified follower rewards and fraud checks, follower versus non-follower analytics, escrow-backed campaigns, events and collaborations, subscriptions, tagged products, threads, and a portfolio-style profile. These are product capabilities, not financial outcomes of the design.
+
+<figure class="img-placeholder" data-ratio="16:9" data-id="niibu-03">
+  <div class="img-placeholder__box">
+    <p class="img-placeholder__prompt">Create a conceptual mobile UI mockup for a professional booking application, showing availability blocks, a service catalog and appointment controls in one phone. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: soft violet, pale mint, warm white and dark charcoal. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
+  </div>
+  <figcaption lang="es">Propuesta conceptual de Get Booked: disponibilidad y reservas profesionales.</figcaption>
+  <figcaption lang="en">Conceptual Get Booked proposal: professional availability and bookings.</figcaption>
+</figure>
+
+<figure class="img-placeholder" data-ratio="4:3" data-id="niibu-04">
+  <div class="img-placeholder__box">
+    <p class="img-placeholder__prompt">Create a conceptual mobile UI mockup for a personal AI concierge, with daily planning cards, wellness discovery and abstract private health tracking modules, no medical readings. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: soft violet, pale mint, warm white and dark charcoal. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
+  </div>
+  <figcaption lang="es">Propuesta conceptual de Personal AI Concierge: planificación y seguimiento personal.</figcaption>
+  <figcaption lang="en">Conceptual Personal AI Concierge proposal: daily planning and personal tracking.</figcaption>
+</figure>
+
+<figure class="img-placeholder" data-ratio="16:9" data-id="niibu-05">
+  <div class="img-placeholder__box">
+    <p class="img-placeholder__prompt">Create a conceptual mobile UI mockup for a creator application, highlighting a wallet with traceable earning sources, reward states and a compact audience comparison chart with abstract values. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: soft violet, pale mint, warm white and dark charcoal. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
+  </div>
+  <figcaption lang="es">Propuesta conceptual de Creator Studio: origen de ingresos y estados de recompensas. Datos ilustrativos.</figcaption>
+  <figcaption lang="en">Conceptual Creator Studio proposal: earning sources and reward states. Illustrative data.</figcaption>
+</figure>
 
 ## Outcomes and learnings
 
