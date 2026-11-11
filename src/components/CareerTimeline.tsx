@@ -3,7 +3,7 @@ import { motion, useMotionValueEvent, useReducedMotion, useScroll, useTransform,
 import { ArrowRight, ArrowUpRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import resume from '../data/resume.json';
-import { projects } from '../data/projects';
+import { useProjects } from '../data/localizedProjects';
 import { ProjectThumbnail } from './ProjectThumbnail';
 import { useLanguage } from '../i18n/LanguageContext';
 import styles from './CareerTimeline.module.css';
@@ -14,13 +14,14 @@ const chapters = [
   { year: '2022', label: { es: 'Del gráfico a lo digital', en: 'From graphic to digital' }, companies: ['BlackSip'], motif: '</>', image: `${import.meta.env.BASE_URL}images/gallery/the-bar-cover.svg`, project: 'the-bar-colombia' },
   { year: '2023', label: { es: 'Explorar nuevos formatos', en: 'Exploring new formats' }, companies: ['Flexi'], motif: '✦', image: `${import.meta.env.BASE_URL}images/gallery/flexi-cover.svg`, project: 'flexi-digital-campaigns' },
   { year: '2024', label: { es: 'Diseñar y liderar', en: 'Designing & leading' }, companies: ['Pontificia Universidad Javeriana', 'Tres Astronautas', 'Inlaze'], motif: '↗', image: `${import.meta.env.BASE_URL}images/gallery/javeriana-landings.png`, project: 'javeriana-landings' },
-  { year: '2025', label: { es: 'Conectar experiencias', en: 'Connecting experiences' }, companies: ['Niibu', 'RemoteLatinos', 'Ágata'], motif: '∞', image: `${import.meta.env.BASE_URL}images/gallery/remote-website.png`, project: 'remote-latinos-website' },
+  { year: '2025', label: { es: 'Conectar experiencias', en: 'Connecting experiences' }, companies: ['Niibu', 'RemoteLatinos', 'Ágata'], motif: '∞', image: `${import.meta.env.BASE_URL}images/gallery/remote-website.png`, project: 'video-interview' },
   { year: '2026', label: { es: 'Diseño al servicio de las personas', en: 'Design in service of people' }, companies: ['Secretaría de Hacienda de Bogotá'], motif: '✦', image: `${import.meta.env.BASE_URL}images/gallery/hacienda-appointments.png`, project: 'appointment-scheduling' },
 ].sort((a, b) => Number(b.year) - Number(a.year));
 
 type Chapter = (typeof chapters)[number];
 
 function TimelineChapter({ chapter, index, progress, animated }: { chapter: Chapter; index: number; progress: MotionValue<number>; animated: boolean }) {
+  const projects = useProjects();
   const { language, copy } = useLanguage();
   const center = index / (chapters.length - 1);
   const scale = useTransform(progress, [center - .2, center, center + .2], [.72, 1, .72]);

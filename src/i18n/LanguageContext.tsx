@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
+import { createContext, useContext, useLayoutEffect, useMemo, useState, type ReactNode } from 'react';
 
 export type Language = 'en' | 'es';
 
@@ -113,7 +113,7 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     return window.localStorage.getItem('portfolio-language') === 'es' ? 'es' : 'en';
   });
 
-  useEffect(() => {
+  useLayoutEffect(() => {
     const localizedCopy = copy[language];
     document.documentElement.lang = language;
     document.title = localizedCopy.title;

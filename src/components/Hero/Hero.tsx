@@ -5,6 +5,7 @@ import { useLanguage } from '../../i18n/LanguageContext';
 import { whatsappUrl } from '../../data/contact';
 import { ArrowUpRight } from 'lucide-react';
 import styles from './Hero.module.css';
+import { getIntroduction } from '../../data/caseContent';
 
 export function Hero() {
   const { language, copy } = useLanguage();
@@ -24,7 +25,7 @@ export function Hero() {
       <Link className={`${styles.portraitLink} ${styles.about}`} to="/about" aria-label={copy.about}><img src={`${import.meta.env.BASE_URL}images/home/about-portrait.png`} alt="Laura Camila Gómez" /><span>{copy.about}</span></Link>
       <a className={`${styles.portraitLink} ${styles.contact}`} href={whatsappUrl(language)} target="_blank" rel="noopener noreferrer" aria-label={contact}><img src={`${import.meta.env.BASE_URL}images/home/contact-portrait.png`} alt={es ? 'Retrato de una niña con muñecas en un marco ornamental' : 'Portrait of a girl with dolls in an ornate frame'} /><span>{contact}</span></a>
     </section>
-    <p className={styles.intro}>{es ? <>Soy <strong>Camila, diseñadora de producto sénior</strong>. Transformo ideas complejas en experiencias digitales claras e intuitivas. Combino estrategia UX y diseño visual para crear productos que las personas disfrutan usar.</> : <>I’m <strong>Camila, a Senior Product Designer</strong> turning complex ideas into clear, intuitive digital experiences. I combine UX strategy and visual design to create products that people enjoy using.</>}</p>
+    <p className={styles.intro}>{getIntroduction(language, 'short')}</p>
     <nav className={styles.actions} aria-label={es ? 'Explorar el portafolio' : 'Explore the portfolio'}>
       <Link className={styles.primaryAction} to="/projects"><span>{es ? 'Ver proyectos' : 'View projects'}</span><ArrowUpRight size={18} aria-hidden="true" /></Link>
       <Link className={styles.secondaryAction} to="/about"><span>{es ? 'Sobre mí' : 'About me'}</span><ArrowUpRight size={18} aria-hidden="true" /></Link>

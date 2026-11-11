@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { ArrowLeft, ArrowRight, ArrowUpRight, Pause, Play } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { useProjectTransition } from './ProjectTransition';
-import { projects } from '../data/projects';
+import { useProjects } from '../data/localizedProjects';
 import { useLanguage } from '../i18n/LanguageContext';
 import { ProjectThumbnail } from './ProjectThumbnail';
 import styles from './ProjectsGallery.module.css';
@@ -13,6 +13,7 @@ export function ProjectsGallery({ featured = false, excludeProjectId }: { featur
 }
 
 function HorizontalProjectsGallery({ excludeProjectId }: { excludeProjectId?: string }) {
+  const projects = useProjects();
   const related = Boolean(excludeProjectId);
   const galleryProjects = projects.filter(project => project.id !== excludeProjectId);
   const featured = false;

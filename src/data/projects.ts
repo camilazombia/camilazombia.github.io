@@ -62,7 +62,7 @@ const selection = [
     "id": "nibu-english-platform",
     "name": "Aplicaciones de inglés",
     "category": "Niibu",
-    "description": "Conjunto de aplicaciones de la plataforma de inglés de Niibu."
+    "description": "Ecosistema de aplicaciones con IA de Niibu para profesionales, uso personal y creadores."
   },
   {
     "id": "publiandes-kids-platform",
@@ -162,7 +162,7 @@ const projectPresentation: Record<string, { name: string; category: string }> = 
   'peoplepass-graphic-design': { name: 'Redes sociales y material POP', category: 'PeoplePass' },
 };
 // Add case study details only when their scope has been supplied.
-export const projects: Project[] = selection.map((project) => ({
+export const projects: Project[] = selection.filter(project => !['remote-latinos-website', 'devar-colombia-website'].includes(project.id)).map((project) => ({
   ...project,
   year: '', role: '', image: '', frame: 'rect', accent: 'rose',
   context: project.description,

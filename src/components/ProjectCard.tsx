@@ -1,3 +1,4 @@
+import { localizeProject } from '../data/localizedProjects';
 import { motion } from 'framer-motion';
 import { ArrowUpRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
@@ -19,7 +20,8 @@ const frameClassMap: FrameClassMap = {
 };
 
 export function ProjectCard({ project, index }: ProjectCardProps) {
-  const { copy } = useLanguage();
+  const { copy, language } = useLanguage();
+  project = localizeProject(project, language);
   const cardDelay = index * 0.12;
 
   return (
@@ -31,7 +33,7 @@ export function ProjectCard({ project, index }: ProjectCardProps) {
       whileHover={{ y: -12, rotate: 0.1 }}
       className="project-card"
     >
-      <Link to={`/projects/${project.id}`} className="project-link" data-cursor-label="VIEW" aria-label={`View project: ${project.name}`}>
+      <Link to={`/projects/${project.id}`} className="project-link" data-cursor-label="VIEW" aria-label={`${copy.viewProject}: ${project.name}`}>
         <div className={`project-media ${frameClassMap[project.frame]}`}>
           <div className="project-frame" aria-hidden="true" />
           <img

@@ -1,0 +1,167 @@
+{
+  "adidas": {
+    "slug": "broken-chains",
+    "es": {
+      "name": "Broken Chains: ecommerce de sneakers",
+      "category": "Broken Chains · BlackSip",
+      "role": "Diseño UX/UI para ecommerce",
+      "description": "Rediseño de Broken Chains, un ecommerce de sneakers exclusivos de marcas como Adidas y Nike. El trabajo conectó la experiencia de compra con la lógica de los lanzamientos y el contenido de la tienda."
+    },
+    "en": {
+      "name": "Broken Chains: sneaker ecommerce",
+      "category": "Broken Chains · BlackSip",
+      "role": "Ecommerce UX/UI design",
+      "description": "A redesign of Broken Chains, an ecommerce store for exclusive sneakers from brands such as Adidas and Nike. The work connected shopping with product drops and the content supporting each launch."
+    }
+  },
+  "appointment-scheduling": {
+    "slug": "hacienda-citas",
+    "es": {
+      "name": "Agendamiento de citas",
+      "category": "Secretaría de Hacienda",
+      "role": "Diseño UX/UI",
+      "description": "Diseño de una plataforma de agendamiento para Hacienda. La propuesta reúne la solicitud de citas y la gestión operativa de agendas, con responsabilidades diferenciadas para administrador, coordinador y agente."
+    },
+    "en": {
+      "name": "Appointment scheduling",
+      "category": "Secretaría de Hacienda",
+      "role": "UX/UI design",
+      "description": "A scheduling platform design for Hacienda. The proposal connects appointment requests with schedule management and distinguishes the responsibilities of administrators, coordinators, and agents."
+    }
+  },
+  "pqrs-ai": {
+    "slug": "pqrs-ai",
+    "es": {
+      "name": "PQRS con IA",
+      "category": "Secretaría de Hacienda",
+      "role": "Diseño UX/UI",
+      "description": "Diseño de una experiencia de gestión de PQRS con apoyo de IA ante un gran volumen de solicitudes. La propuesta organiza prioridades y recomendaciones sin quitar a la persona la decisión sobre cada cambio."
+    },
+    "en": {
+      "name": "AI-assisted PQRS",
+      "category": "Secretaría de Hacienda",
+      "role": "UX/UI design",
+      "description": "An AI-assisted PQRS management experience designed for a high volume of requests. The proposal organizes priorities and recommendations while leaving each change under human control."
+    }
+  },
+  "video-interview": {
+    "slug": "video-interview",
+    "es": {
+      "name": "Video Interview",
+      "category": "Remote Latinos",
+      "role": "Diseño UX/UI",
+      "description": "Funcionalidad de entrevistas en video solicitada por clientes de Remote Latinos. El candidato responde preguntas según su rol, paso a paso, y la experiencia contempla la transcripción de la entrevista."
+    },
+    "en": {
+      "name": "Video Interview",
+      "category": "Remote Latinos",
+      "role": "UX/UI design",
+      "description": "A video interview feature requested by Remote Latinos clients. Candidates answer role-specific questions one step at a time, with interview transcription included in the experience."
+    }
+  },
+  "nibu-english-platform": {
+    "slug": "niibu",
+    "es": {
+      "name": "Niibu: tres aplicaciones con IA",
+      "category": "Niibu",
+      "role": "Diseño UX/UI y sistema de diseño",
+      "description": "Diseño de un ecosistema con Niibu PRO: Get Booked, Niibu: Personal AI Concierge y Niibu: Creator Studio. Mi contribución reunió un sistema de diseño completo y flujos preparados para desarrollo en un contexto de trabajo rápido."
+    },
+    "en": {
+      "name": "Niibu: three AI applications",
+      "category": "Niibu",
+      "role": "UX/UI and design system design",
+      "description": "An ecosystem spanning Niibu PRO: Get Booked, Niibu: Personal AI Concierge, and Niibu: Creator Studio. My contribution combined a complete design system with flows organized for development in a fast-moving project."
+    }
+  },
+  "publiandes-kids-platform": {
+    "slug": "ingles-infantil",
+    "es": {
+      "name": "Inglés para niños",
+      "category": "PubliAndes",
+      "role": "Diseño de bases y experiencia de aprendizaje",
+      "description": "Plataforma de inglés para niños organizada en mundos y niveles, con audio, video, cuentos y música. Desarrollé sus bases iniciales; las interacciones y el contenido se produjeron con apoyo de IA."
+    },
+    "en": {
+      "name": "English for children",
+      "category": "PubliAndes",
+      "role": "Learning foundations and experience design",
+      "description": "An English learning platform for children, organized into worlds and levels with audio, video, stories, and music. I developed the initial foundations; interactions and content were produced with AI support."
+    }
+  },
+  "javeriana-landings": {
+    "slug": "javeriana",
+    "es": {
+      "name": "Landing pages académicas",
+      "category": "Javeriana",
+      "role": "Diseño UX/UI",
+      "description": "Diseño de landing pages para programas académicos de la Javeriana. El trabajo combinó reuniones con facultades, análisis UX/UI y archivos de Figma con componentes y versiones móviles."
+    },
+    "en": {
+      "name": "Academic landing pages",
+      "category": "Javeriana",
+      "role": "UX/UI design",
+      "description": "Landing page design for Javeriana academic programs. The work combined faculty stakeholder meetings, UX/UI analysis, and Figma files with components and mobile versions."
+    }
+  },
+  "flexi-digital-campaigns": {
+    "slug": "flexi",
+    "es": {
+      "name": "Campañas digitales",
+      "category": "Flexi · Freelance",
+      "role": "Diseño gráfico freelance",
+      "description": "Diseño de campañas digitales de Flexi para temporadas como San Valentín y Black Days. El trabajo incluyó propuestas de key visuals y adaptaciones a email, piezas animadas y anuncios para Meta."
+    },
+    "en": {
+      "name": "Digital campaigns",
+      "category": "Flexi · Freelance",
+      "role": "Freelance graphic design",
+      "description": "Digital campaign design for Flexi around occasions such as Valentine’s Day and Black Days. The work included key visual proposals and adaptations for email, animated assets, and Meta ads."
+    }
+  },
+  "the-bar-colombia": {
+    "slug": "the-bar-colombia",
+    "es": {
+      "name": "The Bar Colombia: ecommerce de lujo",
+      "category": "The Bar Colombia · BlackSip",
+      "role": "Diseño UX/UI para ecommerce",
+      "description": "Rediseño del ecommerce The Bar Colombia con una premisa del cliente: transmitir la sensación de estar en una página de lujo. El trabajo conectó investigación, arquitectura de la información, diseño de páginas y seguimiento posterior."
+    },
+    "en": {
+      "name": "The Bar Colombia: luxury ecommerce",
+      "category": "The Bar Colombia · BlackSip",
+      "role": "Ecommerce UX/UI design",
+      "description": "A redesign of The Bar Colombia ecommerce store, guided by the client’s request for a luxury experience. The work connected research, information architecture, page design, and subsequent monitoring."
+    }
+  },
+  "previsora-social-media": {
+    "slug": "previsora",
+    "es": {
+      "name": "Previsora Seguros: redes sociales",
+      "category": "Previsora Seguros · Buentipo Anchor",
+      "role": "Diseño gráfico",
+      "description": "Diseño gráfico para redes sociales de Previsora Seguros en colaboración con el content creator. El trabajo buscó ampliar la variedad del contenido y explorar piezas más dinámicas e interactivas."
+    },
+    "en": {
+      "name": "Previsora Seguros: social media",
+      "category": "Previsora Seguros · Buentipo Anchor",
+      "role": "Graphic design",
+      "description": "Graphic design for Previsora Seguros social media in collaboration with a content creator. The work aimed to broaden content variety and explore more dynamic and interactive pieces."
+    }
+  },
+  "peoplepass-graphic-design": {
+    "slug": "peoplepass",
+    "es": {
+      "name": "PeoplePass: redes sociales y material POP",
+      "category": "PeoplePass",
+      "role": "Diseño gráfico",
+      "description": "Selección de diseño gráfico para PeoplePass en redes sociales y material POP. El caso reúne comunicación digital y piezas para puntos de contacto físicos dentro de una misma identidad."
+    },
+    "en": {
+      "name": "PeoplePass: social media and POP materials",
+      "category": "PeoplePass",
+      "role": "Graphic design",
+      "description": "A selection of PeoplePass graphic design for social media and point-of-purchase materials. The case brings digital communication and physical touchpoints together within one identity."
+    }
+  }
+}

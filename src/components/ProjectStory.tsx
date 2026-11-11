@@ -1,3 +1,4 @@
+import { localizeProject } from '../data/localizedProjects';
 ﻿import { useRef, type ReactNode } from 'react';
 import { motion, useReducedMotion, useScroll, useTransform } from 'framer-motion';
 import { ArrowDown, ArrowUpRight } from 'lucide-react';
@@ -9,6 +10,7 @@ import styles from './ProjectStory.module.css';
 
 export function ProjectStory({ project, children }: { project: Project; children: ReactNode }) {
   const { language, copy } = useLanguage();
+  project = localizeProject(project, language);
   const es = language === 'es';
   const section = useRef<HTMLElement>(null);
   const reduced = useReducedMotion();

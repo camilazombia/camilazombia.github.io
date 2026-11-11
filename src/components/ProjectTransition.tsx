@@ -2,7 +2,8 @@ import { createContext, useContext, useEffect, useLayoutEffect, useRef, useState
 import { createPortal } from 'react-dom';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { projects, type Project } from '../data/projects';
+import type { Project } from '../data/projects';
+import { useProjects } from '../data/localizedProjects';
 import { ProjectThumbnail } from './ProjectThumbnail';
 import styles from './ProjectTransition.module.css';
 
@@ -17,6 +18,7 @@ const rectOf = (element: Element): Rect => {
 };
 
 export function ProjectTransition({ children }: { children: ReactNode }) {
+  const projects = useProjects();
   const navigate = useNavigate();
   const { pathname } = useLocation();
   const pending = useRef<Cover[] | null>(null);

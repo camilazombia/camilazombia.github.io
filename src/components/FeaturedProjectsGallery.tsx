@@ -2,13 +2,14 @@ import { ArrowUpRight } from 'lucide-react';
 import { useRef } from 'react';
 import { motion, useReducedMotion, useScroll, useTransform } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import { projects } from '../data/projects';
+import { useProjects } from '../data/localizedProjects';
 import { useLanguage } from '../i18n/LanguageContext';
 import styles from './FeaturedProjectsGallery.module.css';
 
 const frames = ['heart', 'arch', 'oval'] as const;
 
 export function FeaturedProjectsGallery() {
+  const projects = useProjects();
   const { copy, language } = useLanguage();
   const section = useRef<HTMLElement>(null);
   const reduced = useReducedMotion();

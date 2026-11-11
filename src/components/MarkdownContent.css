@@ -1,0 +1,9 @@
+.markdown-content { min-width: 0; color: var(--home-muted); font: 400 .95rem/1.75 var(--body-font); overflow-wrap: anywhere; }
+.markdown-content > h1 { display: none; }
+.markdown-content h2 { margin: 2.5rem 0 1rem; color: var(--home-pink); font: 400 clamp(1.75rem, 3vw, 2.5rem)/1.15 var(--heading-font); }
+.markdown-content h3 { margin: 1.5rem 0 .7rem; color: var(--home-text); font: 400 1.4rem/1.25 var(--heading-font); }
+.markdown-content p { margin: 0 0 1rem; }
+.markdown-content ul, .markdown-content ol { padding-left: 1.3rem; }
+.markdown-content li { margin: .65rem 0; }
+.markdown-content a { color: var(--home-text); text-decoration: underline; text-underline-offset: 3px; }
+.markdown-content a:focus-visible { outline: 2px solid #c63f73; outline-offset: 4px; }

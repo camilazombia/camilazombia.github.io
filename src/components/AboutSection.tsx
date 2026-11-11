@@ -3,6 +3,8 @@ import { ArrowDown, ArrowUpRight, Download, ImagePlus } from 'lucide-react';
 import resume from '../data/resume.json';
 import { useLanguage } from '../i18n/LanguageContext';
 import styles from './AboutSection.module.css';
+import { getIntroduction } from '../data/caseContent';
+import { MarkdownContent } from './MarkdownContent';
 
 export function AboutSection() {
   const { language } = useLanguage();
@@ -16,9 +18,7 @@ export function AboutSection() {
       <motion.div className={styles.bio} initial={reduced ? false : { opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: .1, duration: .6 }}>
         <p className={styles.eyebrow}>{es ? 'Un poco sobre mí' : 'A little about me'}</p>
         <h1 id="about-title">{es ? 'Hola, soy Camila.' : 'Hi, I’m Camila.'}</h1>
-        <p className={styles.lead}>{es ? 'Diseñadora UX/UI y de producto, con raíces en el diseño gráfico y una mirada curiosa sobre cómo las personas viven lo digital.' : 'A UX/UI and product designer with roots in graphic design and a curious eye for how people experience the digital world.'}</p>
-        <p>{es ? 'He trabajado en eCommerce, educación, plataformas de selección y servicios públicos. Mi recorrido pasa por marcas y equipos como PeoplePass, BlackSip, Javeriana, Remote Latinos, Niibu y la Secretaría de Hacienda de Bogotá.' : 'I’ve worked across eCommerce, education, recruitment platforms and public services, with brands and teams including PeoplePass, BlackSip, Javeriana, Remote Latinos, Niibu and Bogotá’s Secretaría de Hacienda.'}</p>
-        <p>{es ? 'Me gusta entender el problema antes de dibujar la solución. Conecto investigación, flujos e interfaces para crear experiencias claras, útiles y visualmente cuidadas, trabajando de cerca con producto y desarrollo.' : 'I like to understand the problem before drawing the solution. I connect research, user flows and interfaces to create clear, useful and thoughtfully crafted experiences, working closely with product and development teams.'}</p>
+        <MarkdownContent markdown={getIntroduction(language, 'long')} language={language} />
         <div className={styles.bioActions}><a className={styles.cv} href={`${import.meta.env.BASE_URL}cv/Laura-Camila-Gomez-CV-${language}.pdf`} download><Download size={16} aria-hidden="true" />{es ? 'Descargar mi CV' : 'Download my CV'}</a><a className={styles.experienceLink} href="#experience">{es ? 'Mi experiencia' : 'My experience'}<ArrowDown size={16} aria-hidden="true" /></a></div>
         <p className={styles.education}>{es ? 'Diseño Gráfico · Universitaria de Colombia' : 'Graphic Design · Universitaria de Colombia'}<br />{es ? 'Máster en Gráfico Digital · UNIR' : 'Master’s in Digital Graphic Design · UNIR'}</p>
       </motion.div>
