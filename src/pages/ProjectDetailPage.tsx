@@ -58,7 +58,7 @@ export function ProjectDetailPage() {
             initial={reduceMotion ? false : { opacity: 0, y: 35 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: .65, delay: 1.05, ease: [.22, 1, .36, 1] }}>
-            <nav className={styles.breadcrumbs} aria-label={language === 'es' ? 'Ruta de navegaci?n' : 'Breadcrumb'}>
+            <nav className={styles.breadcrumbs} aria-label={language === 'es' ? 'Ruta de navegación' : 'Breadcrumb'}>
               <ol>
                 <li><Link to="/">{language === 'es' ? 'Inicio' : 'Home'}</Link></li>
                 <li><Link to="/projects">{copy.projects}</Link></li>
@@ -69,8 +69,8 @@ export function ProjectDetailPage() {
             <p className={styles.summary}>{project.description}</p>
             <div className={styles.sampleDescription}>
               {language === 'es' ? <>
-                <p>La propuesta explora c?mo transformar una idea en una experiencia clara, coherente y cercana. El recorrido pone atenci?n en la relaci?n entre contenido, jerarqu?a visual y ritmo: cada elemento tiene un lugar y acompa?a a la persona de una secci?n a la siguiente.</p>
-                <p>La selecci?n visual re?ne composiciones generales y detalles para mostrar distintas escalas del proyecto. El contraste entre im?genes amplias y piezas en pareja permite detenerse en cada decisi?n, reconocer conexiones y entender el conjunto sin perder el contexto de esta descripci?n.</p>
+                <p>La propuesta explora cómo transformar una idea en una experiencia clara, coherente y cercana. El recorrido pone atención en la relación entre contenido, jerarquía visual y ritmo: cada elemento tiene un lugar y acompaña a la persona de una sección a la siguiente.</p>
+                <p>La selección visual reúne composiciones generales y detalles para mostrar distintas escalas del proyecto. El contraste entre imágenes amplias y piezas en pareja permite detenerse en cada decisión, reconocer conexiones y entender el conjunto sin perder el contexto de esta descripción.</p>
               </> : <>
                 <p>This sample proposal explores how an idea can become a clear, coherent experience. The narrative focuses on content, visual hierarchy and rhythm, guiding the viewer naturally from one section to the next.</p>
                 <p>The visual selection combines full compositions and details at different scales. Large images and paired pieces create moments to pause, discover connections and understand the complete project while this description remains in view.</p>
@@ -133,11 +133,11 @@ export function ProjectDetailPage() {
             <div className={`${styles.heroImage} ${project.video ? styles.videoHero : ''}`} data-project-hero>
               {project.video ? <video className={styles.projectVideo} controls playsInline preload="metadata" aria-label={`${project.name} — video`}><source src={project.video} type="video/mp4" /></video> : <ProjectThumbnail project={project} eager />}
             </div>
-            {!!project.gallery?.length && <div className={styles.imageGallery} aria-label={language === 'es' ? 'Galer?a del proyecto' : 'Project gallery'}>
+            {!!project.gallery?.length && <div className={styles.imageGallery} aria-label={language === 'es' ? 'Galería del proyecto' : 'Project gallery'}>
               {project.gallery.map((src, index) => <motion.figure key={src}
                 initial={reduceMotion ? false : { opacity: 0, y: 24 }}
                 whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, amount: .1 }} transition={{ duration: .6 }}>
-                <img src={src} alt={`${project.name} ? ${index + 1}`} loading="lazy" />
+                <img src={src} alt={`${project.name} · ${index + 1}`} loading="lazy" />
                 <figcaption><span>{project.category}</span><span>{String(index + 1).padStart(2, '0')}</span></figcaption>
               </motion.figure>)}
             </div>}
