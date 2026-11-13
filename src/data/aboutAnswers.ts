@@ -1,4 +1,4 @@
-﻿import resume from './resume.json';
+import resume from './resume.json';
 import { projects } from './projects';
 import { whatsappUrl } from './contact';
 import type { Language } from '../i18n/LanguageContext';

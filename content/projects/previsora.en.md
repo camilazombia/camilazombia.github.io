@@ -18,6 +18,7 @@ I worked with the content creator on the assets. The documented process covers e
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="previsora-01">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/previsora/previsora-01.png" alt="previsora-01" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual editorial collaboration process diagram pairing content creation and graphic design before a shared social asset board, no internal messages. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: muted green, warm white, navy and coral accents. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Diagrama conceptual de colaboración entre contenido y diseño.</figcaption>
@@ -33,6 +34,7 @@ I worked with the content creator on the assets. The documented process covers e
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="previsora-02">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/previsora/previsora-02.png" alt="previsora-02" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual graphic direction board for a generic insurance social presence with varied compositions, illustration treatments and consistent identity cues, no real brand marks. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: muted green, warm white, navy and coral accents. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Tablero conceptual de variedad visual para redes de seguros.</figcaption>
@@ -45,6 +47,7 @@ The selection concerns social media communication assets. Specific content and a
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="previsora-03">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/previsora/previsora-03.png" alt="previsora-03" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual social media composition board using abstract insurance-related everyday scenes, varied static layouts and generic content blocks, no policyholder documents. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: muted green, warm white, navy and coral accents. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Propuestas conceptuales de piezas estáticas para redes.</figcaption>
@@ -53,6 +56,7 @@ The selection concerns social media communication assets. Specific content and a
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="previsora-04">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/previsora/previsora-04.png" alt="previsora-04" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual conceptual storyboard exploring a dynamic social post and a generic interactive prompt, differentiated states without claiming deployed interaction features. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: muted green, warm white, navy and coral accents. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Exploración conceptual de piezas dinámicas e interactivas.</figcaption>
@@ -67,6 +71,7 @@ The documented output is social media design work and collaboration on content c
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="previsora-05">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/previsora/previsora-05.png" alt="previsora-05" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual cohesive social media grid combining abstract illustrations and varied editorial framing, no follower counts, engagement charts or performance badges. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: muted green, warm white, navy and coral accents. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Selección conceptual de piezas coherentes y variadas.</figcaption>

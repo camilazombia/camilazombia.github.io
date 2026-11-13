@@ -18,6 +18,7 @@ Development moved quickly, without iterative processes. I researched reference a
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="niibu-01">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/niibu/niibu-01.png" alt="niibu-01" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual UI design system board with token swatches, spacing samples, reusable mobile components and page templates, organized in a precise modular grid. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: soft violet, pale mint, warm white and dark charcoal. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Tablero conceptual de tokens, componentes y plantillas del sistema de diseño.</figcaption>
@@ -33,6 +34,7 @@ Development moved quickly, without iterative processes. I researched reference a
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="niibu-02">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/niibu/niibu-02.png" alt="niibu-02" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual flow diagram with a clear main path and branching alternative routes, error recovery and edge cases, using unlabeled nodes and distinct line styles. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: soft violet, pale mint, warm white and dark charcoal. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Mapa conceptual que distingue flujo principal, alternativas y errores.</figcaption>
@@ -55,6 +57,7 @@ The wallet traces earnings to their source. The listing describes verified follo
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="niibu-03">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/niibu/niibu-03.png" alt="niibu-03" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual mobile UI mockup for a professional booking application, showing availability blocks, a service catalog and appointment controls in one phone. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: soft violet, pale mint, warm white and dark charcoal. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Propuesta conceptual de Get Booked: disponibilidad y reservas profesionales.</figcaption>
@@ -63,6 +66,7 @@ The wallet traces earnings to their source. The listing describes verified follo
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="niibu-04">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/niibu/niibu-04.png" alt="niibu-04" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual mobile UI mockup for a personal AI concierge, with daily planning cards, wellness discovery and abstract private health tracking modules, no medical readings. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: soft violet, pale mint, warm white and dark charcoal. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Propuesta conceptual de Personal AI Concierge: planificación y seguimiento personal.</figcaption>
@@ -71,6 +75,7 @@ The wallet traces earnings to their source. The listing describes verified follo
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="niibu-05">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/niibu/niibu-05.png" alt="niibu-05" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual mobile UI mockup for a creator application, highlighting a wallet with traceable earning sources, reward states and a compact audience comparison chart with abstract values. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: soft violet, pale mint, warm white and dark charcoal. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Propuesta conceptual de Creator Studio: origen de ingresos y estados de recompensas. Datos ilustrativos.</figcaption>

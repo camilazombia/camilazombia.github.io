@@ -1,6 +1,9 @@
-﻿.header {
+.header {
   --pink: #ff6ca4;
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
   z-index: 30;
   display: flex;
   align-items: center;
@@ -11,7 +14,11 @@
   background: #eeebe6;
   color: #505050;
   font-family: var(--body-font);
+  transition: background .25s ease, box-shadow .25s ease, backdrop-filter .25s ease;
 }
+.headerSpace { height: var(--site-header-height, 110px); flex: 0 0 var(--site-header-height, 110px); }
+.header.scrolled { background: rgb(238 235 230 / 72%); -webkit-backdrop-filter: blur(18px); backdrop-filter: blur(18px); box-shadow: 0 1px 0 rgb(80 50 60 / 8%); }
+@media(prefers-reduced-motion:reduce) { .header { transition: none; } }
 .brand { display: flex; flex-direction: column; gap: 6px; flex-shrink: 0; font-size: 16px; line-height: 1.2; white-space: nowrap; transition: color .22s ease; }
 .brand strong { font-size: 10px; font-weight: 400; letter-spacing: .09em; text-transform: uppercase; color: #77716e; }
 .brand:hover { color: #c63f73; }

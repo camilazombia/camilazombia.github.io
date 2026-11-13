@@ -15,9 +15,10 @@ export function isProjectId(id: string): id is ProjectId {
 
 export function getCaseContent(id: ProjectId, language: ContentLanguage) {
   const entry = metadata[id];
-  const markdown = documents[`../../content/projects/${entry.slug}.${language}.md`];
-  if (!markdown) throw new Error(`Missing case content: ${id}/${language}`);
-  const summary = markdown.split(/^## /m)[1].split('\n\n')[1].trim();
+  const source = documents[`../../content/projects/${entry.slug}.${language}.md`];
+  if (!source) throw new Error(`Missing case content: ${id}/${language}`);
+  const markdown = source.replace(/\r\n?/g, '\n');
+  const summary = markdown.split(/^## /m)[1]?.split(/\n\s*\n/)[1]?.trim() || entry[language].description;
   return { ...entry[language], description: summary, markdown };
 }
 

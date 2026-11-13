@@ -1,4 +1,4 @@
-﻿.page { min-height: 100vh; padding: 0 24px 70px; background: var(--hero-bg); color: var(--home-text); }
+.page { min-height: 100vh; padding: 0 24px 70px; background: var(--hero-bg); color: var(--home-text); }
 .shell { width: 100%; margin: auto; }
 .hero { display: grid; grid-template-columns: minmax(0, 1.12fr) minmax(0, 1fr); align-items: start; gap: 7vw; padding-bottom: 48px; }
 .heroCopy { position: sticky; top: 24px; display: flex; flex-direction: column; justify-content: flex-end; min-height: calc(100svh - 148px); padding: 56px 0 0; }

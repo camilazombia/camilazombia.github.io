@@ -18,6 +18,7 @@ I benchmarked stores with a similar concept and took part in working sessions wi
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="broken-chains-01">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/broken-chains/broken-chains-01.png" alt="broken-chains-01" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual research reference board comparing generic exclusive sneaker ecommerce patterns, launch imagery and product browsing layouts, no real website screenshots. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: charcoal, warm white and restrained electric blue. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Tablero conceptual de referentes de ecommerce y lanzamientos.</figcaption>
@@ -33,6 +34,7 @@ I benchmarked stores with a similar concept and took part in working sessions wi
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="broken-chains-02">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/broken-chains/broken-chains-02.png" alt="broken-chains-02" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual flow diagram connecting a sneaker drop announcement, launch landing page, product discovery and product detail, with abstract unlabeled nodes. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: charcoal, warm white and restrained electric blue. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Diagrama conceptual de la relación entre drop, contenido y producto.</figcaption>
@@ -45,6 +47,7 @@ The solution brings together the ecommerce redesign and launch and content strat
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="broken-chains-03">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/broken-chains/broken-chains-03.png" alt="broken-chains-03" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual desktop UI mockup of an exclusive sneaker store homepage, editorial launch hero, product grid and strong product photography, entirely unbranded footwear. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: charcoal, warm white and restrained electric blue. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Propuesta conceptual de página de inicio para sneakers exclusivos.</figcaption>
@@ -53,6 +56,7 @@ The solution brings together the ecommerce redesign and launch and content strat
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="broken-chains-04">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/broken-chains/broken-chains-04.png" alt="broken-chains-04" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual paired desktop and mobile UI mockups for a sneaker product page, with large unbranded shoe photography, size selectors and a clear purchase action. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: charcoal, warm white and restrained electric blue. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Propuesta conceptual de detalle de producto en escritorio y móvil.</figcaption>
@@ -67,6 +71,7 @@ The documented output is the redesign work and proposals supporting launches. A 
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="broken-chains-05">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/broken-chains/broken-chains-05.png" alt="broken-chains-05" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual editorial campaign board pairing an unbranded sneaker drop composition with matching ecommerce content cards, aligned visual rhythm and generous negative space. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: charcoal, warm white and restrained electric blue. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Composición conceptual que conecta piezas del lanzamiento y tienda.</figcaption>

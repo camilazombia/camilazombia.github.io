@@ -1,4 +1,4 @@
-﻿export const whatsappNumber = '573026572608';
+export const whatsappNumber = '573026572608';
 export const whatsappDisplay = '+57 302 657 2608';
 
 export function whatsappUrl(language: 'es' | 'en') {

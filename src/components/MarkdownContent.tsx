@@ -7,9 +7,9 @@ import './MarkdownContent.css';
 export function MarkdownContent({ markdown, language, className = '' }: {
   markdown: string; language: 'es' | 'en'; className?: string;
 }) {
-  const html = useMemo(() => DOMPurify.sanitize(marked.parse(markdown, { async: false }), {
-    ALLOWED_TAGS: ['h1', 'h2', 'h3', 'h4', 'p', 'ul', 'ol', 'li', 'strong', 'em', 'a', 'br', 'figure', 'div', 'figcaption', 'span'],
-    ALLOWED_ATTR: ['class', 'href', 'lang', 'data-id', 'data-ratio', 'aria-label'],
+  const html = useMemo(() => DOMPurify.sanitize(marked.parse(markdown.replaceAll('src="/images/gallery/', `src="${import.meta.env.BASE_URL}images/gallery/`), { async: false }), {
+    ALLOWED_TAGS: ['h1', 'h2', 'h3', 'h4', 'p', 'ul', 'ol', 'li', 'strong', 'em', 'a', 'br', 'figure', 'div', 'figcaption', 'span', 'img'],
+    ALLOWED_ATTR: ['class', 'href', 'lang', 'data-id', 'data-ratio', 'aria-label', 'src', 'alt', 'loading', 'decoding'],
   }), [markdown]);
   return <div className={`markdown-content ${className}`} lang={language} dangerouslySetInnerHTML={{ __html: html }} />;
 }

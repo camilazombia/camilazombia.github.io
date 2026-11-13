@@ -1,6 +1,6 @@
-﻿.home{--pink:#ff6ca4;background:#eeebe6;color:#505050;overflow:hidden;height:100vh;height:100dvh;max-height:100dvh;min-height:0;display:flex;flex-direction:column}
+.home{--pink:#ff6ca4;background:#eeebe6;color:#505050;overflow:hidden;height:100vh;height:100dvh;max-height:100dvh;min-height:0;display:flex;flex-direction:column}
 .composition{position:relative;width:100%;flex:1 1 0;min-height:0;container-type:size}
-.title{margin:0}.product,.designer{position:absolute;z-index:3;color:var(--pink);font:400 7vw/.95 var(--heading-font);letter-spacing:-.025em;white-space:nowrap;pointer-events:none}.product{left:15.8%;top:8.8%}.designer{left:55.3%;top:74.8%}.spanishTitle .product{font-size:5.8vw}.spanishTitle .designer{font-size:5.5vw}
+.title{margin:0}.product,.designer{position:absolute;z-index:3;color:var(--pink);font:400 7vw/.95 var(--heading-font);letter-spacing:-.025em;white-space:nowrap;pointer-events:none}.product{left:21.5%;top:13%}.designer{left:55.3%;top:74.8%}.spanishTitle .product{font-size:5.8vw}.spanishTitle .designer{font-size:5.5vw}
 .intro{position:absolute;left:15.85%;top:25%;width:15.8%;margin:0;font-size:clamp(11px,.86vw,15px);line-height:1.4}.intro strong{font-weight:700}
 .portraitLink{position:absolute;display:block}.portraitLink img{width:100%;height:100%;object-fit:contain}.projects{left:26.6%;top:32.4%;width:10.4%;height:27.2%}.about{left:40.2%;top:15.5%;width:21.4%;height:62%}.contact{left:64.9%;top:32.4%;width:10.4%;height:27.2%}.portraitLink>span{position:absolute;bottom:12%;left:50%;transform:translateX(-50%);color:var(--pink);font:400 36px/1 var(--heading-font);white-space:nowrap;opacity:0;transition:opacity .2s}.portraitLink>span{display:none}
 .footer{display:flex;justify-content:space-between;gap:20px;color:#967580;font-size:12px;margin:0;padding:18px 32px;flex-shrink:0}.footer span{flex:1}.footer span:nth-child(2){text-align:center}.footer span:last-child{text-align:right}
@@ -25,7 +25,7 @@
 @media(prefers-reduced-motion:reduce) { .actions a, .actions svg { transition: none; } .actions a:hover, .actions a:hover svg { transform: none; } }
 
 .cornerBow, .cornerFan { position: absolute; z-index: 1; pointer-events: none; user-select: none; height: auto; }
-.cornerBow { width: clamp(160px, 22vw, 350px); left: -4.5%; bottom: -5%; transform: rotate(-12deg); }
+.cornerBow { position: fixed; width: clamp(160px, 22vw, 350px); left: -4.5%; bottom: -5%; transform: rotate(-12deg); }
 .cornerFan { width: clamp(170px, 22vw, 350px); right: -7%; top: -4%; transform: rotate(-20deg); }
 @media(max-width:700px) {
   .cornerBow { width: 150px; left: -55px; bottom: -12px; }
@@ -55,8 +55,8 @@
 
 /* Keep the introduction clear of the portrait group at every width. */
 .intro { left: 13%; width: 17%; z-index: 4; }
-.projects { left: 31.5%; width: 9.5%; }
-.contact { left: 61.5%; width: 9.5%; }
+.projects { left: 33%; width: 9.5%; }
+.contact { left: 60%; width: 9.5%; }
 .portraitLink { z-index: 2; }
 .portraitLink img { transform-origin: center; transition: transform .45s cubic-bezier(.22,1,.36,1), filter .45s ease; }
 .portraitLink:focus-visible img { transform: translateY(-5px) scale(1.025); filter: drop-shadow(0 10px 12px #a9506b20); }
@@ -82,8 +82,8 @@
 @media(max-width:700px) {
   .intro { left: 7%; width: 79%; top: 17%; font-size: clamp(9px, 2.35cqh, 12px); }
   .about { top: 43%; height: 38%; }
-  .projects { left: 9%; top: 51%; width: 20%; height: 22%; }
-  .contact { left: 71%; top: 51%; width: 20%; height: 22%; }
+  .projects { left: 11%; top: 51%; width: 20%; height: 22%; }
+  .contact { left: 69%; top: 51%; width: 20%; height: 22%; }
 }
 @media(max-height:600px) and (min-width:701px) {
   .intro { left: 10%; width: 19%; font-size: clamp(8px, 2.8cqh, 11px); }
@@ -104,3 +104,67 @@
 .actions { padding-top: 20px; }
 @media(max-width:700px) { .home > .intro { margin-top: -6px; margin-bottom: 10px; } .actions { padding-top: 14px; } }
 @media(max-height:600px) { .home > .intro { margin-top: 0; margin-bottom: 6px; } .actions { padding-top: 8px; } }
+
+/* Mobile content follows its natural height instead of compressing the hero. */
+@media(max-width:700px) {
+  .home {
+    position: relative;
+    height: auto;
+    min-height: 100dvh;
+    max-height: none;
+    overflow: clip;
+  }
+  .composition {
+    flex: 0 0 auto;
+    width: 100%;
+    height: clamp(320px, 94vw, 420px);
+    max-width: 480px;
+    margin-inline: auto;
+    container-type: normal;
+  }
+  .product, .spanishTitle .product {
+    top: 12px;
+    left: 6%;
+    font-size: clamp(36px, 11.7vw, 56px);
+  }
+  .designer, .spanishTitle .designer {
+    top: auto;
+    bottom: 14px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: clamp(34px, 10.8vw, 52px);
+  }
+  .about { left: 30%; top: 23%; width: 40%; height: 58%; }
+  .projects { left: 8%; top: 35%; width: 23%; height: 34%; }
+  .contact { left: 69%; top: 35%; width: 23%; height: 34%; }
+  .home > .intro {
+    width: calc(100% - 48px);
+    max-width: 440px;
+    margin: 8px auto 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 1.65;
+  }
+  .actions {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 440px;
+    margin-inline: auto;
+    gap: 12px;
+    padding: 24px 24px 28px;
+  }
+  .primaryAction, .secondaryAction {
+    flex: 1 1 0;
+    min-width: 0;
+    min-height: 50px;
+    gap: 10px;
+    padding: 0 14px;
+    font-size: 10px;
+    letter-spacing: .025em;
+    white-space: nowrap;
+  }
+  .actions svg { flex-shrink: 0; width: 16px; height: 16px; }
+  .cornerFan { top: -4px; right: -45px; width: 120px; }
+  .cornerBow { position: absolute; top: 360px; bottom: auto; left: -44px; width: 95px; opacity: .65; }
+  .home > footer { margin-top: auto; padding-inline: 24px; gap: 12px; }
+}

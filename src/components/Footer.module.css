@@ -1,4 +1,4 @@
-﻿.footer { display: flex; justify-content: space-between; gap: 20px; flex-shrink: 0; margin: 0; padding: 18px 32px; background: var(--home-cream); color: #967580; font: 400 12px/1.5 var(--body-font); }
+.footer { display: flex; justify-content: space-between; gap: 20px; flex-shrink: 0; margin: 0; padding: 18px 32px; background: var(--home-cream); color: #967580; font: 400 12px/1.5 var(--body-font); }
 .footer span { flex: 1; }
 .footer span:nth-child(2) { text-align: center; }
 .footer span:last-child { text-align: right; }

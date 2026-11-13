@@ -18,6 +18,7 @@ Desarrollé varias propuestas de key visuals y piezas para los canales definidos
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="flexi-01">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/flexi/flexi-01.png" alt="flexi-01" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual graphic campaign exploration board with multiple unbranded footwear key visual directions for a romantic seasonal occasion and a bold sales occasion, no promotional prices. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: warm rose, charcoal, cream and seasonal red accents. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Exploración conceptual de key visuals para temporadas especiales.</figcaption>
@@ -33,6 +34,7 @@ Desarrollé varias propuestas de key visuals y piezas para los canales definidos
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="flexi-02">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/flexi/flexi-02.png" alt="flexi-02" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual graphic composition diagram showing a single footwear key visual adapted into email, vertical social and square ad formats, consistent imagery and varied cropping. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: warm rose, charcoal, cream and seasonal red accents. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Diagrama conceptual de adaptación de una campaña entre formatos.</figcaption>
@@ -45,6 +47,7 @@ La selección reúne key visuals, emails, piezas animadas y ads para Meta vincul
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="flexi-03">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/flexi/flexi-03.png" alt="flexi-03" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual email campaign mockup with a large unbranded footwear product photo, modular editorial blocks and abstract call-to-action shapes, no real promotion copy. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: warm rose, charcoal, cream and seasonal red accents. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Propuesta conceptual de email de campaña.</figcaption>
@@ -53,6 +56,7 @@ La selección reúne key visuals, emails, piezas animadas y ads para Meta vincul
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="flexi-04">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/flexi/flexi-04.png" alt="flexi-04" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual animation storyboard in consecutive panels featuring an unbranded shoe product, layered color transitions and distinct motion beats, no platform logos. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: warm rose, charcoal, cream and seasonal red accents. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Storyboard conceptual de una pieza animada de campaña.</figcaption>
@@ -67,6 +71,7 @@ El resultado documentado es un conjunto de propuestas y adaptaciones de campaña
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="flexi-05">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/flexi/flexi-05.png" alt="flexi-05" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual social advertising asset board of square and vertical footwear compositions with consistent seasonal palette and no actual brand marks or performance charts. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: warm rose, charcoal, cream and seasonal red accents. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Selección conceptual de anuncios adaptados a redes.</figcaption>

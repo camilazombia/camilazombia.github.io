@@ -23,6 +23,7 @@ type Chapter = (typeof chapters)[number];
 function TimelineChapter({ chapter, index, progress, animated }: { chapter: Chapter; index: number; progress: MotionValue<number>; animated: boolean }) {
   const projects = useProjects();
   const { language, copy } = useLanguage();
+  const project = projects.find(project => project.id === chapter.project);
   const center = index / (chapters.length - 1);
   const scale = useTransform(progress, [center - .2, center, center + .2], [.72, 1, .72]);
   const imageY = useTransform(progress, [center - .2, center, center + .2], [65, 0, -65]);
@@ -31,10 +32,10 @@ function TimelineChapter({ chapter, index, progress, animated }: { chapter: Chap
     <li className={styles.chapter}>
       <motion.div className={styles.visual} style={animated ? { scale, y: imageY, rotate } : undefined}>
         <span className={styles.largeYear} aria-hidden="true">{chapter.year}</span>
-        <Link className={styles.imageLink} to={`/projects/${chapter.project}`} aria-label={`${copy.viewProject}: ${chapter.label[language]}`}>
-          <div className={styles.thumbnail}><ProjectThumbnail project={projects.find(project => project.id === chapter.project)!} eager={index < 2} /></div>
+        {project ? <Link className={styles.imageLink} to={`/projects/${chapter.project}`} aria-label={`${copy.viewProject}: ${chapter.label[language]}`}>
+          <div className={styles.thumbnail}><ProjectThumbnail project={project} eager={index < 2} /></div>
           <span>{copy.viewProject}<ArrowUpRight size={16} aria-hidden="true" /></span>
-        </Link>
+        </Link> : <div className={styles.imageLink}><div className={styles.thumbnail}><img src={chapter.image} alt={chapter.companies.join(', ')} loading="lazy" /></div></div>}
       </motion.div>
       <div className={styles.copy}>
         <p className={styles.year}>{chapter.year}<span>{String(index + 1).padStart(2, '0')} / {String(chapters.length).padStart(2, '0')}</span></p>

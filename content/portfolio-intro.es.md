@@ -1,6 +1,6 @@
 ## Introducción corta
 
-Soy Camila, diseñadora UX/UI con experiencia en productos digitales, educación, comercio electrónico y comunicación visual. Trabajo con flujos, interfaces y sistemas de diseño para convertir requisitos en propuestas claras. Este portafolio reúne mi contribución en cada proyecto: el contexto, las decisiones y los entregables, con una distinción explícita entre lo que diseñé, lo que se validó y lo que falta comprobar.
+Soy Camila, **diseñadora UX/UI** con experiencia en productos digitales, educación, comercio electrónico y comunicación visual. Trabajo con **flujos, interfaces y sistemas de diseño** para convertir requisitos en **propuestas claras**.
 
 ## Introducción larga
 

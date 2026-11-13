@@ -18,6 +18,7 @@ Organicé la secuencia de preguntas y la interacción de respuesta en video. El 
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="video-interview-01">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/video-interview/video-interview-01.png" alt="video-interview-01" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual candidate journey flow diagram linking role-based questions, a recording step and interview transcription, simple unlabeled sequential nodes. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep purple, cool gray and warm white. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Recorrido conceptual de preguntas por rol, video y transcripción.</figcaption>
@@ -33,6 +34,7 @@ Organicé la secuencia de preguntas y la interacción de respuesta en video. El 
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="video-interview-02">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/video-interview/video-interview-02.png" alt="video-interview-02" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual UI state board with recording, error and retry panels for a video interview, generic camera icons and distinct controls, no real candidate image. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep purple, cool gray and warm white. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Tablero conceptual de estados: grabación, error y reintento.</figcaption>
@@ -45,6 +47,7 @@ La propuesta combina preguntas por rol, respuesta secuencial en video y transcri
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="video-interview-03">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/video-interview/video-interview-03.png" alt="video-interview-03" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual desktop UI mockup of a guided video interview question screen, single question placeholder, blank camera silhouette and step indicator without digits. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep purple, cool gray and warm white. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Pantalla conceptual de entrevista guiada, centrada en una pregunta.</figcaption>
@@ -53,6 +56,7 @@ La propuesta combina preguntas por rol, respuesta secuencial en video y transcri
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="video-interview-04">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/video-interview/video-interview-04.png" alt="video-interview-04" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual desktop UI mockup pairing an abstract video frame with a transcription panel built from illegible line shapes, no actual recorded interview or candidate data. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep purple, cool gray and warm white. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Propuesta conceptual de revisión de video y transcripción.</figcaption>
@@ -67,6 +71,7 @@ El resultado documentado es el diseño de una funcionalidad de entrevista con re
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="video-interview-05">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/video-interview/video-interview-05.png" alt="video-interview-05" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual conceptual recovery flow board for a recording interruption and retry, open decision nodes indicating rules to confirm, no claimed autosave or duration rules. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep purple, cool gray and warm white. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Mapa conceptual de recuperación; reglas específicas pendientes de confirmar.</figcaption>

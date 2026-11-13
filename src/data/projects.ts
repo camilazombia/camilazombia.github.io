@@ -1,4 +1,4 @@
-﻿export type ProjectFrame = 'rect' | 'arch' | 'oval' | 'organic';
+export type ProjectFrame = 'rect' | 'arch' | 'oval' | 'organic';
 
 export type Project = {
   id: string;
@@ -99,22 +99,10 @@ const selection = [
     name: 'Previsora Seguros · Redes sociales',
     category: 'Buentipo Anchor',
     description: 'Diseño gráfico de piezas para redes sociales de Previsora Seguros.'
-  },
-  {
-    id: 'peoplepass-graphic-design',
-    name: 'PeoplePass · Selección gráfica',
-    category: 'PeoplePass',
-    description: 'Una selección de diseño gráfico para PeoplePass: contenido de redes sociales y material POP.'
   }
 ];
 
 const projectDetails: Record<string, Partial<Project>> = {
-  'peoplepass-graphic-design': {
-    role: 'Graphic Designer Analyst',
-    image: `${import.meta.env.BASE_URL}images/gallery/peoplepass-cover.svg`,
-    context: 'Diseño gráfico para la comunicación de PeoplePass en medios digitales y puntos de contacto físicos. Este proyecto reúne contenido para redes sociales y material POP, manteniendo la coherencia con la identidad de marca.',
-    roleDetail: 'Creación de piezas gráficas, coordinación con proveedores y gestión de aprobaciones para mantener los estándares de la marca.'
-  },
   'previsora-social-media': {
     role: 'Graphic Designer',
     image: `${import.meta.env.BASE_URL}images/gallery/previsora-cover.svg`,
@@ -159,7 +147,10 @@ const projectPresentation: Record<string, { name: string; category: string }> = 
   'flexi-digital-campaigns': { name: 'Campañas digitales', category: 'Flexi · Freelance' },
   'the-bar-colombia': { name: 'Rediseño de página web', category: 'The Bar Colombia · BlackSip' },
   'previsora-social-media': { name: 'Redes sociales', category: 'Previsora Seguros · Buentipo Colombia' },
-  'peoplepass-graphic-design': { name: 'Redes sociales y material POP', category: 'PeoplePass' },
+};
+const generatedCovers: Record<string, string> = {
+  'appointment-scheduling': `${import.meta.env.BASE_URL}images/portadas-generadas/agendamiento-citas.png`,
+  'video-interview': `${import.meta.env.BASE_URL}images/portadas-generadas/video-interview.png`,
 };
 // Add case study details only when their scope has been supplied.
 export const projects: Project[] = selection.filter(project => !['remote-latinos-website', 'devar-colombia-website'].includes(project.id)).map((project) => ({
@@ -171,8 +162,8 @@ export const projects: Project[] = selection.filter(project => !['remote-latinos
   ...projectDetails[project.id],
   ...projectPresentation[project.id],
   playbackRate: project.id === 'previsora-social-media' ? 0.5 : 1,
-  animatedCover: project.id === 'previsora-social-media' ? `${import.meta.env.BASE_URL}videos/previsora-seguros.mp4` : project.id === 'javeriana-landings' ? `${import.meta.env.BASE_URL}videos/javeriana-inscripciones.mp4` : project.id === 'nibu-english-platform' ? `${import.meta.env.BASE_URL}videos/niibu.webm` : undefined,
-  thumbnail: project.id === 'flexi-digital-campaigns' ? `${import.meta.env.BASE_URL}images/gallery/flexi-campaign.jpg` : project.id === 'adidas' ? `${import.meta.env.BASE_URL}images/gallery/adidas.gif` : project.id === 'the-bar-colombia' ? `${import.meta.env.BASE_URL}images/gallery/the-bar-colombia.gif` : project.id === 'devar-colombia-website' ? `${import.meta.env.BASE_URL}images/gallery/remote-website.png` : undefined,
+  animatedCover: project.id === 'previsora-social-media' ? `${import.meta.env.BASE_URL}videos/previsora-seguros.mp4` : project.id === 'javeriana-landings' ? `${import.meta.env.BASE_URL}videos/javeriana-inscripciones.mp4` : project.id === 'nibu-english-platform' ? `${import.meta.env.BASE_URL}videos/niibu.webm` : project.id === 'publiandes-kids-platform' ? `${import.meta.env.BASE_URL}videos/publiandes-ingles.mp4` : project.id === 'pqrs-ai' ? `${import.meta.env.BASE_URL}videos/pqrs-ia.mp4` : project.id === 'appointment-scheduling' ? `${import.meta.env.BASE_URL}videos/agendamiento-citas.mp4` : undefined,
+  thumbnail: generatedCovers[project.id] ?? (project.id === 'flexi-digital-campaigns' ? `${import.meta.env.BASE_URL}images/gallery/flexi-campaign.jpg` : project.id === 'adidas' ? `${import.meta.env.BASE_URL}images/gallery/adidas.gif` : project.id === 'the-bar-colombia' ? `${import.meta.env.BASE_URL}images/gallery/the-bar-colombia.gif` : project.id === 'devar-colombia-website' ? `${import.meta.env.BASE_URL}images/gallery/remote-website.png` : undefined),
   gallery: project.id === 'the-bar-colombia' || project.id === 'adidas' || project.id === 'nibu-english-platform' || project.id === 'javeriana-landings' || project.id === 'previsora-social-media' ? [] : [galleryImages[project.id] || projectDetails[project.id]?.image].filter((src): src is string => !!src),
 }));
 

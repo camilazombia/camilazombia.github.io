@@ -18,6 +18,7 @@ I researched spirits and luxury references and benchmarked beverage ecommerce st
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="the-bar-colombia-01">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/the-bar-colombia/the-bar-colombia-01.png" alt="the-bar-colombia-01" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual luxury spirits research moodboard with unbranded bottle silhouettes, rich material textures, refined lighting and abstract ecommerce reference panels, no copied websites. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep charcoal, warm ivory, amber and muted gold. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Moodboard conceptual de bebidas espirituosas y lenguaje de lujo.</figcaption>
@@ -34,6 +35,7 @@ I researched spirits and luxury references and benchmarked beverage ecommerce st
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="the-bar-colombia-02">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/the-bar-colombia/the-bar-colombia-02.png" alt="the-bar-colombia-02" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual card sorting and information architecture board, abstract category cards clustered into a navigational tree, no actual research participant responses. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep charcoal, warm ivory, amber and muted gold. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Representación conceptual de card sorting y arquitectura de información.</figcaption>
@@ -46,6 +48,7 @@ The deliverable was a redesign of all ecommerce pages, supported by the architec
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="the-bar-colombia-03">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/the-bar-colombia/the-bar-colombia-03.png" alt="the-bar-colombia-03" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual desktop UI mockup of a premium spirits ecommerce homepage, elegant unbranded bottle still life, spacious editorial hierarchy and curated product cards. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep charcoal, warm ivory, amber and muted gold. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Propuesta conceptual de página de inicio del ecommerce.</figcaption>
@@ -54,6 +57,7 @@ The deliverable was a redesign of all ecommerce pages, supported by the architec
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="the-bar-colombia-04">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/the-bar-colombia/the-bar-colombia-04.png" alt="the-bar-colombia-04" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual paired desktop and mobile UI mockups for a premium spirits product page, unbranded bottle photography, product information blocks and clear shopping action. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep charcoal, warm ivory, amber and muted gold. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Detalle de producto conceptual en escritorio y móvil.</figcaption>
@@ -68,6 +72,7 @@ The case includes research, architecture, full page design, and subsequent monit
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="the-bar-colombia-05">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/the-bar-colombia/the-bar-colombia-05.png" alt="the-bar-colombia-05" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual conceptual analytics review board with an abstract heatmap overlay, session recording timeline and generic trend chart beside a design iteration panel, no real analytics or claimed uplift. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep charcoal, warm ivory, amber and muted gold. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
   <figcaption lang="es">Tablero conceptual de seguimiento e iteración, sin resultados reales. Datos ilustrativos.</figcaption>

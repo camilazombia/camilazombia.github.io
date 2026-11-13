@@ -1,4 +1,4 @@
-﻿import { useEffect, useLayoutEffect, useRef, useState, type CSSProperties } from 'react';
+import { useEffect, useLayoutEffect, useRef, useState, type CSSProperties } from 'react';
 import { createPortal } from 'react-dom';
 import { ArrowUpRight, Menu, X } from 'lucide-react';
 import { whatsappUrl } from '../data/contact';
@@ -13,8 +13,16 @@ export function Navbar() {
   const trigger = useRef<HTMLButtonElement>(null);
   const panel = useRef<HTMLDivElement>(null);
   const [open, setOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
   const [origin, setOrigin] = useState({ x: 0, y: 0 });
   const es = language === 'es';
+
+  useEffect(() => {
+    const updateScroll = () => setScrolled(window.scrollY > 12);
+    updateScroll();
+    window.addEventListener('scroll', updateScroll, { passive: true });
+    return () => window.removeEventListener('scroll', updateScroll);
+  }, [pathname]);
 
   useLayoutEffect(() => {
     if (!header.current) return;
@@ -43,7 +51,8 @@ export function Navbar() {
     return () => { document.body.style.overflow = previousOverflow; document.removeEventListener('keydown', onKey); trigger.current?.focus(); };
   }, [open]);
   return <>
-    <header ref={header} className={styles.header}>
+    <div className={styles.headerSpace} aria-hidden="true" />
+    <header ref={header} className={`${styles.header} ${scrolled ? styles.scrolled : ''}`}>
       <NavLink to="/" className={styles.brand} aria-label={copy.homeLabel}>CamilaGómez <strong>Digital Product Designer</strong></NavLink>
       <div className={styles.controls}>
         <div className={styles.languages} role="group" aria-label={copy.languageLabel}>

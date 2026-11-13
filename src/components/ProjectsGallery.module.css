@@ -1,4 +1,4 @@
-﻿.gallery { --gallery-bg: var(--hero-bg); --gallery-ink: var(--home-text); --card-width: clamp(230px, 27vw, 430px); position: relative; z-index: 24; padding: 40px 0 26px; background: var(--gallery-bg); color: var(--gallery-ink); scroll-margin-top: 0; }
+.gallery { --gallery-bg: var(--hero-bg); --gallery-ink: var(--home-text); --card-width: clamp(230px, 27vw, 430px); position: relative; z-index: 24; padding: 40px 0 26px; background: var(--gallery-bg); color: var(--gallery-ink); scroll-margin-top: 0; }
 .featured { margin-top: -32px; }
 .fullPage { min-height: calc(100svh - 100px); display: flex; flex-direction: column; justify-content: space-between; }
 .heading { display: flex; justify-content: space-between; align-items: baseline; gap: 24px; padding-inline: 30px; }

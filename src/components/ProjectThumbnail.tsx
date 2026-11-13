@@ -1,6 +1,6 @@
 import { useLanguage } from '../i18n/LanguageContext';
 import { localizeProject } from '../data/localizedProjects';
-﻿import { useReducedMotion } from 'framer-motion';
+import { useReducedMotion } from 'framer-motion';
 import type { Project } from '../data/projects';
 import styles from './ProjectThumbnail.module.css';
 

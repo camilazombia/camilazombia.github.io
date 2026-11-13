@@ -14,14 +14,15 @@ Request volume created a challenge for reading, classification, and assignment. 
 
 ## Process
 
-I organized the experience around the described tasks: prioritize, understand a request, review its classification, and assign responsibility. The design connected recommendations with field-level controls and a combined action. Model training, accuracy testing, and impact validation are not claimed.
+The project scope was UI design in Figma for AI-assisted PQRS management, including suggestion review, field editing, and email composition screens. No user research was conducted.
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="pqrs-ai-01">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/pqrs-ai/pqrs-ai-01.png" alt="pqrs-ai-01" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual service task diagram connecting incoming requests, prioritization, summary, suggested classification and human review, abstract documents with no case identifiers. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: navy, teal, pale lavender and warm white. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Diagrama conceptual de priorización y revisión humana.</figcaption>
-  <figcaption lang="en">Conceptual diagram of prioritization and human review.</figcaption>
+  <figcaption lang="es">Diseño de UI en Figma para la gestión de PQRS con IA.</figcaption>
+  <figcaption lang="en">UI design in Figma for AI-assisted PQRS management.</figcaption>
 </figure>
 
 ## Key design decisions
@@ -34,10 +35,11 @@ I organized the experience around the described tasks: prioritize, understand a 
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="pqrs-ai-02">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/pqrs-ai/pqrs-ai-02.png" alt="pqrs-ai-02" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual desktop UI mockup of AI recommendations beside an original request panel, four recommendation rows each with a visible edit control icon and a separate grouped apply action, no legible labels. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: navy, teal, pale lavender and warm white. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Panel conceptual de recomendaciones con controles individuales y acción conjunta.</figcaption>
-  <figcaption lang="en">Conceptual recommendations panel with individual controls and a combined action.</figcaption>
+  <figcaption lang="es">Diseño del panel de recomendaciones y sus acciones en Figma.</figcaption>
+  <figcaption lang="en">Recommendations panel and action designs in Figma.</figcaption>
 </figure>
 
 ## Solution
@@ -46,18 +48,20 @@ AI prioritizes requests, summarizes them, and recommends classification and assi
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="pqrs-ai-03">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/pqrs-ai/pqrs-ai-03.png" alt="pqrs-ai-03" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual desktop UI mockup of a public service request priority list, distinct priority indicators and an adjacent abstract summary card, no actual citizen documents. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: navy, teal, pale lavender and warm white. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Lista conceptual de prioridades y resumen de solicitudes. Datos ilustrativos.</figcaption>
-  <figcaption lang="en">Conceptual request priority list and summary. Illustrative data.</figcaption>
+  <figcaption lang="es">Diseño de la lista de prioridades y el resumen de solicitudes en Figma.</figcaption>
+  <figcaption lang="en">Priority list and request summary designs in Figma.</figcaption>
 </figure>
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="pqrs-ai-04">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/pqrs-ai/pqrs-ai-04.png" alt="pqrs-ai-04" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual desktop UI mockup of an email composer with smart token chips, template preview and a clear review stage, empty recipient field and no actual message content. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: navy, teal, pale lavender and warm white. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Compositor conceptual de correo dinámico con tokens inteligentes.</figcaption>
-  <figcaption lang="en">Conceptual dynamic email composer with smart tokens.</figcaption>
+  <figcaption lang="es">Diseño del compositor de correo con tokens inteligentes en Figma.</figcaption>
+  <figcaption lang="en">Email composer design with smart tokens in Figma.</figcaption>
 </figure>
 
 ## Outcomes and learnings
@@ -68,10 +72,11 @@ The deliverable is an assisted management proposal that connects recommendations
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="pqrs-ai-05">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/pqrs-ai/pqrs-ai-05.png" alt="pqrs-ai-05" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual conceptual interaction diagram comparing an AI suggestion, a human modification and a proposed undo review state, reversibility shown as a design intention rather than implemented proof. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: navy, teal, pale lavender and warm white. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Esquema conceptual de control humano; reversión pendiente de verificar.</figcaption>
-  <figcaption lang="en">Conceptual human oversight diagram; reversal behavior remains unverified.</figcaption>
+  <figcaption lang="es">Diseño de las interfaces para revisar y editar sugerencias de IA en Figma.</figcaption>
+  <figcaption lang="en">Interface designs for reviewing and editing AI suggestions in Figma.</figcaption>
 </figure>
 
 ## Closing

@@ -14,14 +14,15 @@ The process was fragmented: an Excel file was sent to a provider to enable avail
 
 ## Process
 
-Using the described existing workflows, I defined a platform structure with role-based management and a request form. The design work specified rules, limits, and dynamic schedule behavior. User testing, deployment, and operational outcomes are not claimed without supporting evidence.
+The project scope was UI design in Figma for an appointment scheduling platform, including role-based management screens and a request form. No user research was conducted.
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="hacienda-citas-01">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/hacienda-citas/hacienda-citas-01.png" alt="hacienda-citas-01" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual service flow diagram contrasting scattered spreadsheet, request form and calendar icons with a unified scheduling platform, no client screenshots or internal details. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep blue, teal, warm white and neutral gray. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Diagrama conceptual del proceso fragmentado y la propuesta integrada.</figcaption>
-  <figcaption lang="en">Conceptual diagram of the fragmented workflow and integrated proposal.</figcaption>
+  <figcaption lang="es">Diseño de UI en Figma para la plataforma de agendamiento de citas.</figcaption>
+  <figcaption lang="en">UI design in Figma for the appointment scheduling platform.</figcaption>
 </figure>
 
 ## Key design decisions
@@ -34,10 +35,11 @@ Using the described existing workflows, I defined a platform structure with role
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="hacienda-citas-02">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/hacienda-citas/hacienda-citas-02.png" alt="hacienda-citas-02" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual role responsibility diagram with administrator, office coordinator and agent represented by generic icons connected to separate permission groups, agent details abstract. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep blue, teal, warm white and neutral gray. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Mapa conceptual de roles; los permisos detallados del agente están pendientes.</figcaption>
-  <figcaption lang="en">Conceptual role map; detailed agent permissions remain pending.</figcaption>
+  <figcaption lang="es">Diseño de las interfaces para los perfiles de la plataforma en Figma.</figcaption>
+  <figcaption lang="en">Interface designs for the platform roles in Figma.</figcaption>
 </figure>
 
 ## Solution
@@ -46,18 +48,20 @@ The proposal includes an appointment request form, an administrator profile cont
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="hacienda-citas-03">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/hacienda-citas/hacienda-citas-03.png" alt="hacienda-citas-03" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual desktop UI mockup of an office scheduling dashboard with abstract appointment distribution, availability cards and a clearly bounded office workspace. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep blue, teal, warm white and neutral gray. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Dashboard conceptual del coordinador de sede. Datos ilustrativos.</figcaption>
-  <figcaption lang="en">Conceptual office coordinator dashboard. Illustrative data.</figcaption>
+  <figcaption lang="es">Diseño de UI del panel de gestión de citas en Figma.</figcaption>
+  <figcaption lang="en">UI design of the appointment management dashboard in Figma.</figcaption>
 </figure>
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="hacienda-citas-04">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/hacienda-citas/hacienda-citas-04.png" alt="hacienda-citas-04" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual desktop UI sequence in three panels showing a dynamic appointment schedule before adding a time block, during insertion and after neighboring blocks adjust, no timestamps. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep blue, teal, warm white and neutral gray. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Secuencia conceptual del ajuste de bloques en una agenda dinámica.</figcaption>
-  <figcaption lang="en">Conceptual sequence of block adjustment in a dynamic schedule.</figcaption>
+  <figcaption lang="es">Diseño de la interfaz de agenda y sus estados en Figma.</figcaption>
+  <figcaption lang="en">Schedule interface and state designs in Figma.</figcaption>
 </figure>
 
 ## Outcomes and learnings
@@ -68,10 +72,11 @@ Previously, the workflow relied on provider-bound files, a form, and a separate 
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="hacienda-citas-05">
   <div class="img-placeholder__box">
+    <img class="case-image" src="/images/gallery/hacienda-citas/hacienda-citas-05.png" alt="hacienda-citas-05" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual paired mobile and desktop UI mockup for a public appointment request form with clear field grouping, a generic availability selector and confirmation state, no filled personal fields. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: deep blue, teal, warm white and neutral gray. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Formulario conceptual de solicitud de citas con información ficticia.</figcaption>
-  <figcaption lang="en">Conceptual appointment request form using fictional information.</figcaption>
+  <figcaption lang="es">Diseño de UI del formulario de solicitud de citas en Figma.</figcaption>
+  <figcaption lang="en">UI design of the appointment request form in Figma.</figcaption>
 </figure>
 
 ## Closing

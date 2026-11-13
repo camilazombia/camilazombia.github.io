@@ -1,5 +1,5 @@
 import { localizeProject } from '../data/localizedProjects';
-﻿import { useRef, type ReactNode } from 'react';
+import { useRef, type ReactNode } from 'react';
 import { motion, useReducedMotion, useScroll, useTransform } from 'framer-motion';
 import { ArrowDown, ArrowUpRight } from 'lucide-react';
 import { Link } from 'react-router-dom';

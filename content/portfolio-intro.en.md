@@ -1,6 +1,6 @@
 ## Short introduction
 
-I’m Camila, a UX/UI designer with experience in digital products, education, ecommerce, and visual communication. I work with flows, interfaces, and design systems to turn requirements into clear proposals. This portfolio explains my contribution to each project through its context, decisions, and deliverables, distinguishing what I designed, what was validated, and what still needs evidence before it can be claimed.
+I’m Camila, a **UX/UI designer** with experience in digital products, education, ecommerce, and visual communication. I work with **flows, interfaces, and design systems** to turn requirements into **clear proposals**.
 
 ## Long introduction
 
