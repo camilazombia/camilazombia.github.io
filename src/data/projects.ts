@@ -149,8 +149,8 @@ const projectPresentation: Record<string, { name: string; category: string }> = 
   'previsora-social-media': { name: 'Redes sociales', category: 'Previsora Seguros · Buentipo Colombia' },
 };
 const generatedCovers: Record<string, string> = {
-  'appointment-scheduling': `${import.meta.env.BASE_URL}images/portadas-generadas/agendamiento-citas.png`,
-  'video-interview': `${import.meta.env.BASE_URL}images/portadas-generadas/video-interview.png`,
+  'appointment-scheduling': `${import.meta.env.BASE_URL}images/portadas-generadas/agendamiento-citas.webp`,
+  'video-interview': `${import.meta.env.BASE_URL}images/portadas-generadas/video-interview.webp`,
 };
 // Add case study details only when their scope has been supplied.
 export const projects: Project[] = selection.filter(project => !['remote-latinos-website', 'devar-colombia-website'].includes(project.id)).map((project) => ({

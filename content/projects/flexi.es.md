@@ -2,82 +2,101 @@
 
 ## Resumen
 
-Diseño de campañas digitales de Flexi para temporadas como San Valentín y Black Days. El trabajo incluyó propuestas de key visuals y adaptaciones a email, piezas animadas y anuncios para Meta.
+Participé en el desarrollo visual de campañas digitales para Flexi, creando propuestas de *key visuals* y adaptaciones para email marketing, anuncios en Meta y piezas animadas.
+
+El objetivo fue construir una comunicación visual atractiva y consistente, manteniendo la identidad de cada campaña y adaptándola a las características de los diferentes canales.
 
 ## Rol y equipo
 
-Mi rol fue la conceptualización visual y el diseño gráfico freelance de piezas de campaña. No se dispone del detalle del equipo ni de responsabilidades de planificación de medios.
+Mi participación se centró en la conceptualización visual, la exploración de propuestas gráficas y el diseño de piezas digitales.
 
-## Contexto y problema
+Como diseñadora freelance, trabajé en la adaptación de las composiciones principales a distintos formatos, cuidando la jerarquía visual, la presentación de los productos y la coherencia gráfica entre las piezas.
 
-Las temporadas especiales requerían comunicar productos y promociones en distintos formatos. El reto visual era sostener una idea de campaña al pasar de una composición principal a un email, una pieza animada o un anuncio.
+## Contexto y desafío
 
-## Proceso
+Las temporadas comerciales requerían comunicar productos y promociones mediante piezas capaces de captar la atención en diferentes plataformas.
 
-Desarrollé varias propuestas de key visuals y piezas para los canales definidos. El proceso documentado es de exploración gráfica y adaptación de campaña; no se atribuyen investigación UX, experimentos publicitarios ni optimización de pauta.
+El principal desafío fue mantener una identidad visual reconocible al trasladar una misma campaña a formatos con proporciones, espacios y formas de lectura diferentes, como emails, publicaciones, anuncios y animaciones.
+
+## Proceso de diseño
+
+El proceso comenzó con la exploración de diferentes propuestas de *key visuals*, buscando alternativas de composición, tratamiento gráfico y presentación de los productos para cada temporada.
+
+A partir de las propuestas visuales, desarrollé adaptaciones para los canales definidos, reorganizando elementos y ajustando las composiciones según las necesidades de cada formato.
+
+También se trabajaron piezas animadas para incorporar movimiento a la comunicación y ampliar las posibilidades de presentación de las campañas.
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="flexi-01">
   <div class="img-placeholder__box">
     <img class="case-image" src="/images/gallery/flexi/flexi-01.png" alt="flexi-01" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual graphic campaign exploration board with multiple unbranded footwear key visual directions for a romantic seasonal occasion and a bold sales occasion, no promotional prices. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: warm rose, charcoal, cream and seasonal red accents. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Exploración conceptual de key visuals para temporadas especiales.</figcaption>
-  <figcaption lang="en">Conceptual key visual exploration for seasonal campaigns.</figcaption>
 </figure>
 
 ## Decisiones clave de diseño
 
-- Explorar varias propuestas visuales para abrir opciones de dirección de campaña.
-- Usar el key visual como referencia para mantener continuidad entre piezas.
-- Adaptar la composición al email y a los formatos de Meta en lugar de tratar todos los soportes como equivalentes.
-- Incorporar piezas animadas como parte de la variedad de formatos de campaña.
+- **Exploración creativa:** desarrollar diferentes propuestas visuales para cada campaña.
+- **Consistencia gráfica:** mantener una identidad reconocible entre las distintas piezas.
+- **Adaptación multiformato:** ajustar composiciones, proporciones y jerarquías para email y anuncios de Meta.
+- **Presentación de producto:** destacar los elementos comerciales sin perder claridad visual.
+- **Contenido animado:** incorporar movimiento como recurso complementario de comunicación.
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="flexi-02">
   <div class="img-placeholder__box">
     <img class="case-image" src="/images/gallery/flexi/flexi-02.png" alt="flexi-02" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual graphic composition diagram showing a single footwear key visual adapted into email, vertical social and square ad formats, consistent imagery and varied cropping. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: warm rose, charcoal, cream and seasonal red accents. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Diagrama conceptual de adaptación de una campaña entre formatos.</figcaption>
-  <figcaption lang="en">Conceptual diagram of campaign adaptation across formats.</figcaption>
 </figure>
 
 ## Solución
 
-La selección reúne key visuals, emails, piezas animadas y ads para Meta vinculados a temporadas especiales. Son entregables de comunicación visual, no un rediseño de producto digital ni una intervención documentada sobre el flujo de compra.
+Se desarrolló un conjunto de propuestas visuales y piezas digitales para campañas de temporadas especiales, incluyendo:
+
+- Key visuals principales de campaña.
+- Piezas para email marketing.
+- Anuncios digitales para Meta.
+- Adaptaciones a diferentes tamaños y proporciones.
+- Piezas animadas para comunicación digital.
+
+Cada formato se trabajó considerando sus características, manteniendo la conexión visual con el concepto principal de la campaña.
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="flexi-03">
   <div class="img-placeholder__box">
     <img class="case-image" src="/images/gallery/flexi/flexi-03.png" alt="flexi-03" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual email campaign mockup with a large unbranded footwear product photo, modular editorial blocks and abstract call-to-action shapes, no real promotion copy. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: warm rose, charcoal, cream and seasonal red accents. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Propuesta conceptual de email de campaña.</figcaption>
-  <figcaption lang="en">Conceptual campaign email proposal.</figcaption>
 </figure>
+
+## Resultados y aprendizajes
+
+El proyecto permitió desarrollar diferentes propuestas creativas y adaptaciones digitales, fortaleciendo la consistencia visual de las campañas en múltiples canales.
+
+Uno de los principales aprendizajes fue la importancia de diseñar una idea gráfica flexible, capaz de adaptarse a distintos formatos sin perder su identidad ni la claridad del mensaje.
+
+La experiencia también reforzó mis habilidades de composición, jerarquía visual y adaptación de contenido comercial para medios digitales.
 
 <figure class="img-placeholder" data-ratio="4:3" data-id="flexi-04">
   <div class="img-placeholder__box">
     <img class="case-image" src="/images/gallery/flexi/flexi-04.png" alt="flexi-04" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual animation storyboard in consecutive panels featuring an unbranded shoe product, layered color transitions and distinct motion beats, no platform logos. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: warm rose, charcoal, cream and seasonal red accents. Composition: balanced focal area, generous margins, 4:3 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Storyboard conceptual de una pieza animada de campaña.</figcaption>
-  <figcaption lang="en">Conceptual storyboard for an animated campaign asset.</figcaption>
 </figure>
 
-## Resultados y aprendizajes
+## Próximos pasos
 
-El resultado documentado es un conjunto de propuestas y adaptaciones de campaña. No se cuenta con resultados atribuibles de ventas, clics o retorno de pauta. El aprendizaje es sostener la idea visual mientras cambia el formato y su forma de lectura.
+Como oportunidad para futuras campañas, sería interesante complementar el proceso creativo con el análisis del desempeño de las piezas en cada canal.
 
-[DATO PENDIENTE: FL-01 | inventario de campañas y piezas aprobadas por formato].
+Esto permitiría identificar qué composiciones y formatos generan mejores resultados y utilizar esos aprendizajes para orientar nuevas propuestas visuales.
 
 <figure class="img-placeholder" data-ratio="16:9" data-id="flexi-05">
   <div class="img-placeholder__box">
     <img class="case-image" src="/images/gallery/flexi/flexi-05.png" alt="flexi-05" loading="lazy" decoding="async" />
     <p class="img-placeholder__prompt">Create a conceptual social advertising asset board of square and vertical footwear compositions with consistent seasonal palette and no actual brand marks or performance charts. Style: polished product design editorial illustration with high visual detail and clean edges. Palette: warm rose, charcoal, cream and seasonal red accents. Composition: balanced focal area, generous margins, 16:9 aspect ratio. Use abstract shapes instead of readable text or digits. No real logos, brand marks, personal data, actual client screenshots, or confidential material. This is a conceptual reconstruction, not evidence of a delivered screen or an actual research artifact.</p>
   </div>
-  <figcaption lang="es">Selección conceptual de anuncios adaptados a redes.</figcaption>
-  <figcaption lang="en">Conceptual selection of social advertising adaptations.</figcaption>
 </figure>
 
 ## Cierre
 
-El caso destaca dirección visual y consistencia de campaña sin atribuir resultados comerciales no medidos.
+Este proyecto me permitió explorar diferentes enfoques creativos y trabajar en la adaptación de campañas para múltiples formatos digitales.
+
+La experiencia destacó la importancia de combinar creatividad, consistencia gráfica y flexibilidad para construir comunicaciones visuales que funcionen en distintos canales.

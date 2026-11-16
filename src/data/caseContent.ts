@@ -19,7 +19,7 @@ export function getCaseContent(id: ProjectId, language: ContentLanguage) {
   if (!source) throw new Error(`Missing case content: ${id}/${language}`);
   const markdown = source.replace(/\r\n?/g, '\n');
   const summary = markdown.split(/^## /m)[1]?.split(/\n\s*\n/)[1]?.trim() || entry[language].description;
-  return { ...entry[language], description: summary, markdown };
+  return { ...entry[language], description: ['publiandes-kids-platform', 'javeriana-landings', 'flexi-digital-campaigns', 'the-bar-colombia', 'previsora-social-media', 'adidas', 'appointment-scheduling', 'pqrs-ai', 'video-interview', 'nibu-english-platform'].includes(id) ? entry[language].description : summary, markdown };
 }
 
 export function getIntroduction(language: ContentLanguage, length: 'short' | 'long') {

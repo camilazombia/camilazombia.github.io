@@ -4,44 +4,44 @@
     "es": {
       "name": "Broken Chains: ecommerce de sneakers",
       "category": "Broken Chains · BlackSip",
-      "role": "Diseño UX/UI para ecommerce",
-      "description": "Rediseño de Broken Chains, un ecommerce de sneakers exclusivos de marcas como Adidas y Nike. El trabajo conectó la experiencia de compra con la lógica de los lanzamientos y el contenido de la tienda."
+      "role": "UX/UI Design para ecommerce",
+      "description": "Un proyecto enfocado en el rediseño de la experiencia digital de Broken Chains, una tienda especializada en sneakers exclusivos de marcas como Adidas y Nike. El trabajo integró investigación de referentes, diseño UX/UI y propuestas para conectar la experiencia de compra con las dinámicas de lanzamientos y contenido editorial."
     },
     "en": {
       "name": "Broken Chains: sneaker ecommerce",
       "category": "Broken Chains · BlackSip",
       "role": "Ecommerce UX/UI design",
-      "description": "A redesign of Broken Chains, an ecommerce store for exclusive sneakers from brands such as Adidas and Nike. The work connected shopping with product drops and the content supporting each launch."
+      "description": "A project focused on redesigning the digital experience of Broken Chains, a store specializing in exclusive sneakers from brands such as Adidas and Nike. The work brought together reference research, UX/UI design, and proposals to connect the shopping experience with product launch dynamics and editorial content."
     }
   },
   "appointment-scheduling": {
     "slug": "hacienda-citas",
     "es": {
       "name": "Agendamiento de citas",
-      "category": "Secretaría de Hacienda",
-      "role": "Diseño UX/UI",
-      "description": "Diseño de una plataforma de agendamiento para Hacienda. La propuesta reúne la solicitud de citas y la gestión operativa de agendas, con responsabilidades diferenciadas para administrador, coordinador y agente."
+      "category": "Secretaría Distrital de Hacienda de Bogotá",
+      "role": "UX/UI Design",
+      "description": "Un proyecto enfocado en el diseño UX/UI de una plataforma de agendamiento para la Secretaría de Hacienda de Bogotá, que conecta la solicitud de citas de los contribuyentes con la gestión operativa de las sedes y los funcionarios encargados de atenderlas."
     },
     "en": {
       "name": "Appointment scheduling",
-      "category": "Secretaría de Hacienda",
-      "role": "UX/UI design",
-      "description": "A scheduling platform design for Hacienda. The proposal connects appointment requests with schedule management and distinguishes the responsibilities of administrators, coordinators, and agents."
+      "category": "Secretaría Distrital de Hacienda de Bogotá",
+      "role": "UX/UI Design",
+      "description": "A project focused on the UX/UI design of an appointment scheduling platform for Bogota's Secretariat of Finance, connecting taxpayers' appointment requests with the operational management of branches and the staff responsible for handling them."
     }
   },
   "pqrs-ai": {
     "slug": "pqrs-ai",
     "es": {
       "name": "PQRS con IA",
-      "category": "Secretaría de Hacienda",
-      "role": "Diseño UX/UI",
-      "description": "Diseño de una experiencia de gestión de PQRS con apoyo de IA ante un gran volumen de solicitudes. La propuesta organiza prioridades y recomendaciones sin quitar a la persona la decisión sobre cada cambio."
+      "category": "Secretaría Distrital de Hacienda de Bogotá",
+      "role": "UX/UI Design",
+      "description": "Un proyecto enfocado en el diseño UX/UI de una experiencia de gestión de peticiones, quejas, reclamos y sugerencias (PQRS) para la Secretaría de Hacienda, incorporando inteligencia artificial como apoyo para organizar, comprender y gestionar un alto volumen de solicitudes."
     },
     "en": {
       "name": "AI-assisted PQRS",
-      "category": "Secretaría de Hacienda",
-      "role": "UX/UI design",
-      "description": "An AI-assisted PQRS management experience designed for a high volume of requests. The proposal organizes priorities and recommendations while leaving each change under human control."
+      "category": "Secretaría Distrital de Hacienda de Bogotá",
+      "role": "UX/UI Design",
+      "description": "A project focused on the UX/UI design of an experience for managing petitions, complaints, claims, and suggestions (PQRS) for the Secretariat of Finance, incorporating artificial intelligence to help organize, understand, and manage a high volume of requests."
     }
   },
   "video-interview": {
@@ -49,14 +49,14 @@
     "es": {
       "name": "Video Interview",
       "category": "Remote Latinos",
-      "role": "Diseño UX/UI",
-      "description": "Funcionalidad de entrevistas en video solicitada por clientes de Remote Latinos. El candidato responde preguntas según su rol, paso a paso, y la experiencia contempla la transcripción de la entrevista."
+      "role": "UX/UI Design",
+      "description": "Un proyecto enfocado en el diseño UX/UI de una funcionalidad de entrevistas en video para Remote Latinos, que permite a los candidatos responder preguntas relacionadas con el puesto al que aplican mediante una experiencia guiada, paso a paso."
     },
     "en": {
       "name": "Video Interview",
       "category": "Remote Latinos",
-      "role": "UX/UI design",
-      "description": "A video interview feature requested by Remote Latinos clients. Candidates answer role-specific questions one step at a time, with interview transcription included in the experience."
+      "role": "UX/UI Design",
+      "description": "A project focused on the UX/UI design of a video interview feature for Remote Latinos, allowing candidates to answer questions related to the position they are applying for through a guided, step-by-step experience."
     }
   },
   "nibu-english-platform": {
@@ -64,14 +64,14 @@
     "es": {
       "name": "Niibu: tres aplicaciones con IA",
       "category": "Niibu",
-      "role": "Diseño UX/UI y sistema de diseño",
-      "description": "Diseño de un ecosistema con Niibu PRO: Get Booked, Niibu: Personal AI Concierge y Niibu: Creator Studio. Mi contribución reunió un sistema de diseño completo y flujos preparados para desarrollo en un contexto de trabajo rápido."
+      "role": "UX/UI Design y Design System",
+      "description": "Un proyecto enfocado en el diseño UX/UI de un ecosistema de tres aplicaciones: Niibu PRO: Get Booked, Niibu: Personal AI Concierge y Niibu: Creator Studio. El trabajo combinó investigación de referentes, diseño de experiencias digitales, funcionalidades con inteligencia artificial y la construcción de un sistema de diseño compartido."
     },
     "en": {
       "name": "Niibu: three AI applications",
       "category": "Niibu",
-      "role": "UX/UI and design system design",
-      "description": "An ecosystem spanning Niibu PRO: Get Booked, Niibu: Personal AI Concierge, and Niibu: Creator Studio. My contribution combined a complete design system with flows organized for development in a fast-moving project."
+      "role": "UX/UI Design and Design System",
+      "description": "A project focused on the UX/UI design of an ecosystem of three applications: Niibu PRO: Get Booked, Niibu: Personal AI Concierge, and Niibu: Creator Studio. The work combined reference research, digital experience design, artificial intelligence features, and the creation of a shared design system."
     }
   },
   "publiandes-kids-platform": {
@@ -79,29 +79,29 @@
     "es": {
       "name": "Inglés para niños",
       "category": "PubliAndes",
-      "role": "Diseño de bases y experiencia de aprendizaje",
-      "description": "Plataforma de inglés para niños organizada en mundos y niveles, con audio, video, cuentos y música. Desarrollé sus bases iniciales; las interacciones y el contenido se produjeron con apoyo de IA."
+      "role": "Investigación, UX/UI Design y desarrollo frontend",
+      "description": "Una experiencia educativa que combina aprendizaje, exploración y juego a través de mundos, actividades interactivas y contenido multimedia. El proyecto integró investigación de referentes, asesoría en metodologías de enseñanza del inglés, diseño UX/UI y desarrollo frontend con apoyo de herramientas de inteligencia artificial."
     },
     "en": {
       "name": "English for children",
       "category": "PubliAndes",
-      "role": "Learning foundations and experience design",
-      "description": "An English learning platform for children, organized into worlds and levels with audio, video, stories, and music. I developed the initial foundations; interactions and content were produced with AI support."
+      "role": "Research, UX/UI design, and frontend development",
+      "description": "An educational experience that combines learning, exploration, and play through worlds, interactive activities, and multimedia content. The project brought together reference research, guidance on English teaching methodologies, UX/UI design, and frontend development with support from artificial intelligence tools."
     }
   },
   "javeriana-landings": {
     "slug": "javeriana",
     "es": {
       "name": "Landing pages académicas",
-      "category": "Javeriana",
-      "role": "Diseño UX/UI",
-      "description": "Diseño de landing pages para programas académicos de la Javeriana. El trabajo combinó reuniones con facultades, análisis UX/UI y archivos de Figma con componentes y versiones móviles."
+      "category": "Pontificia Universidad Javeriana",
+      "role": "UX/UI Design",
+      "description": "Un proyecto enfocado en mejorar la experiencia de navegación y consulta de programas académicos, conectando las necesidades de las facultades con las expectativas de aspirantes y sus familias. El proceso integró investigación con usuarios, análisis UX/UI, talleres colaborativos, diseño de interfaces y construcción de componentes para desarrollo."
     },
     "en": {
       "name": "Academic landing pages",
-      "category": "Javeriana",
-      "role": "UX/UI design",
-      "description": "Landing page design for Javeriana academic programs. The work combined faculty stakeholder meetings, UX/UI analysis, and Figma files with components and mobile versions."
+      "category": "Pontificia Universidad Javeriana",
+      "role": "UX/UI Design",
+      "description": "A project focused on improving the experience of browsing and exploring academic programs, connecting faculty needs with the expectations of prospective students and their families. The process brought together user research, UX/UI analysis, collaborative workshops, interface design, and component creation for development."
     }
   },
   "flexi-digital-campaigns": {
@@ -110,13 +110,13 @@
       "name": "Campañas digitales",
       "category": "Flexi · Freelance",
       "role": "Diseño gráfico freelance",
-      "description": "Diseño de campañas digitales de Flexi para temporadas como San Valentín y Black Days. El trabajo incluyó propuestas de key visuals y adaptaciones a email, piezas animadas y anuncios para Meta."
+      "description": "Un proyecto enfocado en la conceptualización y el diseño de campañas digitales para Flexi durante temporadas comerciales como San Valentín y Black Days. El trabajo combinó exploración creativa, desarrollo de propuestas visuales y adaptación de piezas para diferentes formatos y canales."
     },
     "en": {
       "name": "Digital campaigns",
       "category": "Flexi · Freelance",
       "role": "Freelance graphic design",
-      "description": "Digital campaign design for Flexi around occasions such as Valentine’s Day and Black Days. The work included key visual proposals and adaptations for email, animated assets, and Meta ads."
+      "description": "A project focused on conceptualizing and designing digital campaigns for Flexi during commercial seasons such as Valentine's Day and Black Days. The work combined creative exploration, visual proposal development, and asset adaptation for different formats and channels."
     }
   },
   "the-bar-colombia": {
@@ -124,14 +124,14 @@
     "es": {
       "name": "The Bar Colombia: ecommerce de lujo",
       "category": "The Bar Colombia · BlackSip",
-      "role": "Diseño UX/UI para ecommerce",
-      "description": "Rediseño del ecommerce The Bar Colombia con una premisa del cliente: transmitir la sensación de estar en una página de lujo. El trabajo conectó investigación, arquitectura de la información, diseño de páginas y seguimiento posterior."
+      "role": "UX/UI Design para ecommerce",
+      "description": "Un proyecto enfocado en transformar la experiencia digital de The Bar Colombia, buscando transmitir exclusividad y sofisticación sin perder facilidad de uso. El proceso integró investigación de usuarios, análisis de referentes, arquitectura de información, diseño de interfaces y seguimiento del comportamiento de los usuarios."
     },
     "en": {
       "name": "The Bar Colombia: luxury ecommerce",
       "category": "The Bar Colombia · BlackSip",
       "role": "Ecommerce UX/UI design",
-      "description": "A redesign of The Bar Colombia ecommerce store, guided by the client’s request for a luxury experience. The work connected research, information architecture, page design, and subsequent monitoring."
+      "description": "A project focused on transforming The Bar Colombia's digital experience, conveying exclusivity and sophistication while maintaining ease of use. The process brought together user research, reference analysis, information architecture, interface design, and user behavior monitoring."
     }
   },
   "previsora-social-media": {
@@ -140,13 +140,13 @@
       "name": "Previsora Seguros: redes sociales",
       "category": "Previsora Seguros · Buentipo Anchor",
       "role": "Diseño gráfico",
-      "description": "Diseño gráfico para redes sociales de Previsora Seguros en colaboración con el content creator. El trabajo buscó ampliar la variedad del contenido y explorar piezas más dinámicas e interactivas."
+      "description": "Un proyecto enfocado en diversificar la comunicación digital de Previsora Seguros mediante el diseño de contenido visual para redes sociales. El trabajo combinó creatividad, colaboración con el equipo de contenidos y exploración de recursos gráficos para desarrollar piezas más dinámicas y atractivas."
     },
     "en": {
       "name": "Previsora Seguros: social media",
       "category": "Previsora Seguros · Buentipo Anchor",
       "role": "Graphic design",
-      "description": "Graphic design for Previsora Seguros social media in collaboration with a content creator. The work aimed to broaden content variety and explore more dynamic and interactive pieces."
+      "description": "A project focused on diversifying Previsora Seguros' digital communication through visual content design for social media. The work combined creativity, collaboration with the content team, and exploration of graphic resources to develop more dynamic and engaging assets."
     }
   },
   "peoplepass-graphic-design": {

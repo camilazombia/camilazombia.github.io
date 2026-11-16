@@ -47,7 +47,7 @@ export function ProjectStory({ project, children }: { project: Project; children
           <span>{project.role || 'UX/UI & Digital Design'}</span>
         </motion.header>
         <div className={styles.details}>{children}</div>
-        {project.image && <motion.figure className={styles.visual} initial={reduced ? false : { clipPath: 'inset(12% 0 12% 0)' }} whileInView={{ clipPath: 'inset(0% 0 0% 0)' }} viewport={{ once: true }} transition={{ duration: .8 }}><img src={project.image} alt={project.name} loading="lazy" /><figcaption>{project.category} — {project.name}</figcaption></motion.figure>}
+        {project.image && <motion.figure className={styles.visual} initial={reduced ? false : { clipPath: 'inset(12% 0 12% 0)' }} whileInView={{ clipPath: 'inset(0% 0 0% 0)' }} viewport={{ once: true }} transition={{ duration: .8 }}><img src={project.image} alt={project.name} loading="lazy" /></motion.figure>}
         <Link to="/projects" className={styles.allWork}>{copy.viewMoreWork}<ArrowUpRight size={28} aria-hidden="true" /></Link>
       </div>
     </section>
