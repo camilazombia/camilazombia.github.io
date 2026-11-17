@@ -4,8 +4,10 @@ Soy Camila, **diseñadora UX/UI** con experiencia en productos digitales, educac
 
 ## Introducción larga
 
-Mi trayectoria conecta diseño gráfico y diseño de experiencias digitales. He trabajado en aplicaciones con IA, servicios públicos, plataformas educativas, ecommerce y campañas. Según el proyecto, mi aporte ha incluido investigación de referentes, encuestas, arquitectura de la información, flujos, componentes y diseño visual.
+Soy diseñadora de producto digital con una trayectoria que combina el diseño gráfico y el diseño UX/UI. He tenido la oportunidad de trabajar en proyectos de diferentes sectores, desde aplicaciones con inteligencia artificial y plataformas educativas hasta servicios públicos, ecommerce y campañas digitales.
 
-Me interesa explicar por qué una interfaz toma una forma determinada: qué problema atiende, qué reglas necesita y qué decisiones quedan en manos de la persona. También considero los estados de error y los casos límite como parte del diseño.
+Me gusta involucrarme en las distintas etapas del proceso de diseño, entendiendo las necesidades de cada proyecto y transformándolas en experiencias claras, funcionales y visualmente cuidadas. Mi experiencia incluye investigación, arquitectura de información, definición de flujos, sistemas de diseño y creación de interfaces.
 
-Los casos distinguen el alcance de mi contribución y las actividades realmente realizadas. Cuando no existen datos de impacto, presento entregables y aprendizajes sin atribuir mejoras no medidas. Las propuestas visuales son conceptuales y usan información ficticia para proteger la confidencialidad.
+Creo que un buen diseño va más allá de lo visual. Me interesa comprender el problema que buscamos resolver, tomar decisiones con intención y pensar en cómo las personas interactúan con un producto, incluso cuando las cosas no salen como se esperan.
+
+Disfruto aprender, explorar nuevas herramientas y enfrentar desafíos que me permitan seguir creciendo como diseñadora. Para mí, cada proyecto es una oportunidad de conectar creatividad, estrategia y tecnología para construir experiencias que aporten valor.

@@ -4,8 +4,10 @@ I’m Camila, a **UX/UI designer** with experience in digital products, educatio
 
 ## Long introduction
 
-My background connects graphic design with digital experience design. I have worked on AI applications, public services, learning platforms, ecommerce, and campaigns. Depending on the project, my contribution has included reference research, surveys, information architecture, flows, components, and visual design.
+I’m a digital product designer with a background that combines graphic design and UX/UI design. I’ve had the opportunity to work on projects across different sectors, from AI-powered applications and educational platforms to public services, ecommerce, and digital campaigns.
 
-I’m interested in explaining why an interface takes a particular form: the problem it addresses, the rules it needs, and the decisions that remain with the person using it. Error states and edge cases are also part of that work.
+I enjoy being involved in the different stages of the design process, understanding each project’s needs and turning them into clear, functional, and visually thoughtful experiences. My experience includes research, information architecture, user flows, design systems, and interface design.
 
-Each case distinguishes my contribution from activities that were not documented. When impact data is unavailable, I present deliverables and learnings without claiming unmeasured improvements. Visual proposals are conceptual and use fictional information to protect confidentiality.
+I believe good design goes beyond visuals. I’m interested in understanding the problem we’re trying to solve, making intentional decisions, and considering how people interact with a product, even when things don’t go as expected.
+
+I enjoy learning, exploring new tools, and taking on challenges that help me keep growing as a designer. For me, every project is an opportunity to connect creativity, strategy, and technology to build experiences that bring value.
